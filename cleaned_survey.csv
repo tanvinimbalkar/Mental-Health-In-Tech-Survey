@@ -1,0 +1,1244 @@
+age,gender,country,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence
+37,male,United States,,No,1.0,Often,6-25,0.0,1.0,1.0,Not sure,No,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+44,male,United States,,No,0.0,Rarely,More than 1000,0.0,0.0,,No,Don't know,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+32,male,Canada,,No,0.0,Rarely,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Yes,Yes,1.0,1.0,No,0.0
+31,male,United Kingdom,,Yes,1.0,Often,26-100,0.0,1.0,0.0,Yes,No,0.0,No,Somewhat difficult,1.0,1.0,Some of them,No,0.5,0.5,No,1.0
+31,male,United States,,No,0.0,Never,100-500,1.0,1.0,1.0,No,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,1.0,1.0,Don't know,0.0
+33,male,United States,,Yes,0.0,Sometimes,6-25,0.0,1.0,1.0,Not sure,No,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+35,male,United States,,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,No,Somewhat difficult,0.5,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+39,male,Canada,,No,0.0,Never,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Don't know,0.0,0.0,No,No,0.0,0.0,No,0.0
+42,male,United States,,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Yes,No,0.0,No,Very difficult,0.5,0.0,Yes,Yes,0.0,0.5,No,0.0
+23,male,Canada,,No,0.0,Never,26-100,0.0,1.0,,No,Don't know,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+31,male,United States,,No,1.0,Sometimes,6-25,1.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+29,male,Bulgaria,,No,0.0,Never,100-500,1.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,1.0,1.0,Don't know,0.0
+42,male,United States,,Yes,1.0,Sometimes,26-100,0.0,0.0,1.0,Yes,No,0.0,Don't know,Somewhat difficult,1.0,1.0,Yes,Yes,0.5,0.5,No,1.0
+36,male,United States,,Yes,0.0,Never,500-1000,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+27,male,Canada,,No,0.0,Never,6-25,0.0,1.0,,Not sure,Don't know,,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.5,1.0,Yes,0.0
+29,male,United States,,Yes,1.0,Rarely,26-100,0.0,1.0,1.0,Not sure,No,0.0,Don't know,Somewhat easy,0.0,0.0,Yes,Some of them,0.5,0.5,Don't know,0.0
+23,male,United Kingdom,,No,1.0,Sometimes,26-100,1.0,1.0,,No,Don't know,,Don't know,Very easy,0.5,0.0,Some of them,No,0.5,0.5,No,0.0
+32,male,United States,,No,1.0,Sometimes,6-25,0.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,No,0.0
+46,male,United States,Yes,Yes,0.0,Sometimes,1-5,1.0,1.0,1.0,Not sure,Yes,,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,1.0,Yes,1.0
+36,male,France,Yes,Yes,0.0,,6-25,1.0,1.0,0.0,No,Yes,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+29,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Yes,No,0.0,No,Somewhat difficult,0.5,0.0,Some of them,Some of them,0.0,0.0,No,0.0
+31,male,United States,Yes,No,0.0,Never,1-5,1.0,1.0,0.0,No,No,0.0,Yes,Somewhat difficult,0.0,0.0,Some of them,Some of them,0.0,0.5,Yes,0.0
+46,male,United States,No,No,1.0,Often,26-100,1.0,1.0,1.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.5,No,0.0
+41,male,United States,No,No,1.0,Never,More than 1000,0.0,0.0,,No,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,1.0,Don't know,0.0
+33,male,United States,No,Yes,1.0,Rarely,26-100,0.0,1.0,1.0,Not sure,Don't know,1.0,Yes,Don't know,0.0,0.0,Yes,Yes,0.0,1.0,Don't know,0.0
+35,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,No,,No,Very easy,1.0,0.0,Some of them,Yes,0.0,1.0,No,0.0
+33,male,United States,No,No,0.0,,1-5,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+35,male,United States,No,Yes,1.0,Rarely,6-25,1.0,1.0,1.0,Yes,Don't know,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+34,male,United States,No,No,1.0,Sometimes,26-100,1.0,1.0,,Not sure,No,,Don't know,Somewhat difficult,0.0,0.0,Some of them,No,0.0,0.0,No,0.0
+37,male,United Kingdom,No,No,0.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,1.0,0.5,Some of them,No,0.0,0.5,No,0.0
+32,male,United Kingdom,No,No,0.0,Never,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,1.0,Some of them,Some of them,0.0,0.5,No,0.0
+31,male,United States,Yes,Yes,0.0,Rarely,1-5,1.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat difficult,1.0,0.0,No,No,0.0,0.0,No,1.0
+30,male,United Kingdom,No,Yes,1.0,Sometimes,500-1000,1.0,1.0,,No,No,0.0,Yes,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,1.0,Don't know,0.0
+42,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.5,0.0,Some of them,Some of them,0.5,1.0,Don't know,0.0
+40,male,United States,No,No,1.0,Sometimes,1-5,0.0,1.0,1.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Yes,0.0
+27,male,United States,No,No,1.0,Rarely,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+29,male,Canada,No,No,0.0,Rarely,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,1.0,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+38,male,Portugal,No,No,0.0,,100-500,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+50,male,United States,No,No,0.0,,100-500,0.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+35,male,United States,No,No,1.0,Rarely,More than 1000,1.0,1.0,1.0,Yes,No,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+24,male,United Kingdom,No,No,1.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,1.0,No,1.0
+35,male,United States,No,No,0.0,,More than 1000,1.0,1.0,1.0,Not sure,Don't know,1.0,Don't know,Somewhat difficult,1.0,1.0,Some of them,No,0.0,0.5,Don't know,0.0
+27,male,Canada,No,Yes,1.0,Sometimes,1-5,0.0,1.0,0.0,Yes,No,0.0,Yes,Very difficult,0.5,0.0,Some of them,No,0.0,0.0,Yes,0.0
+30,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,No,No,0.0,0.5,Don't know,0.0
+38,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+28,male,United Kingdom,No,No,0.0,,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.5,Some of them,Yes,0.5,1.0,Don't know,0.0
+34,male,United States,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,1.0,Don't know,0.0
+26,male,Canada,Yes,No,0.0,Sometimes,1-5,0.0,1.0,0.0,Yes,Yes,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+30,male,United States,No,Yes,1.0,Rarely,26-100,0.0,1.0,1.0,No,No,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+22,male,United States,No,Yes,1.0,Often,6-25,0.0,1.0,0.0,Yes,No,0.0,Yes,Very difficult,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+33,male,United States,No,No,0.0,,100-500,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+31,male,United States,No,No,0.0,,100-500,1.0,1.0,,No,Don't know,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.5,0.5,Don't know,0.0
+32,male,United States,No,No,0.0,Never,1-5,1.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+28,male,Switzerland,No,No,0.0,,100-500,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,No,No,0.0,0.5,Don't know,0.0
+27,male,United States,No,Yes,1.0,Rarely,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+32,male,United States,No,Yes,0.0,,6-25,1.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+24,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.5,Some of them,Yes,1.0,1.0,No,0.0
+26,male,United States,No,No,0.0,,26-100,0.0,0.0,0.0,No,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,1.0,Don't know,0.0
+33,male,Canada,No,Yes,1.0,Often,6-25,1.0,1.0,,No,No,0.0,No,Somewhat difficult,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+44,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,1.0,No,No,,Don't know,Don't know,1.0,0.5,Some of them,No,0.0,0.5,Don't know,1.0
+26,male,Poland,No,No,1.0,Sometimes,26-100,1.0,1.0,,Not sure,Yes,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,1.0,Yes,0.0
+27,male,United Kingdom,No,No,0.0,Never,100-500,0.0,1.0,1.0,Not sure,No,1.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+26,male,France,No,No,0.0,,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,1.0,0.0,No,No,0.0,0.0,No,1.0
+35,male,Canada,No,No,0.0,Sometimes,6-25,0.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+40,male,United States,No,Yes,0.0,Sometimes,More than 1000,1.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,1.0,0.5,Some of them,No,0.0,0.0,No,1.0
+23,male,Australia,No,Yes,1.0,Often,1-5,1.0,1.0,0.0,Not sure,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+36,male,United States,No,No,0.0,Sometimes,100-500,1.0,1.0,1.0,No,Don't know,1.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.5,1.0,Yes,0.0
+31,male,United States,No,No,0.0,,26-100,1.0,0.0,,No,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+34,male,United States,Yes,No,0.0,Rarely,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+28,male,France,No,No,0.0,Never,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+34,male,Canada,No,No,0.0,Never,6-25,0.0,1.0,,Not sure,Don't know,,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+23,male,United States,No,No,0.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,No,0.0,Yes,Somewhat difficult,0.5,0.0,Yes,Yes,0.0,0.0,No,0.0
+38,male,United Kingdom,No,No,0.0,,26-100,0.0,1.0,0.0,No,No,,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,1.0,Yes,0.0
+33,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,,Not sure,Yes,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Yes,0.0
+19,male,United Kingdom,No,No,0.0,,1-5,0.0,1.0,0.0,Yes,No,0.0,No,Somewhat difficult,1.0,0.0,No,No,0.0,0.5,No,0.0
+25,male,United States,No,No,0.0,,More than 1000,1.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,1.0,Yes,0.0
+31,male,United States,Yes,Yes,0.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,Yes,Somewhat difficult,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+32,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,1.0,0.0,Some of them,No,0.0,1.0,No,0.0
+28,male,Germany,No,No,0.0,Never,6-25,1.0,1.0,,No,Don't know,,Don't know,Very easy,0.0,0.0,Some of them,Some of them,0.5,1.0,Yes,0.0
+38,male,United States,No,Yes,0.0,Sometimes,100-500,1.0,1.0,1.0,Yes,No,1.0,Don't know,Don't know,0.0,0.0,Yes,Some of them,0.5,0.5,Yes,0.0
+23,male,United Kingdom,No,No,0.0,Never,26-100,0.0,1.0,1.0,Not sure,Yes,,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+30,male,Canada,No,No,0.0,Never,26-100,0.0,0.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,No,0.0
+27,male,United States,Yes,No,1.0,Often,1-5,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.5,0.5,Some of them,Yes,0.0,0.5,Yes,0.0
+33,male,United States,No,Yes,0.0,Never,More than 1000,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.5,No,0.0
+31,male,United States,No,No,0.0,,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,No,0.0
+39,male,United Kingdom,Yes,No,1.0,Often,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,0.5,0.0,Some of them,No,0.0,0.5,No,1.0
+34,male,United States,No,Yes,1.0,Rarely,500-1000,1.0,1.0,1.0,Not sure,No,,Don't know,Don't know,1.0,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+29,female,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,No,1.0
+32,male,United States,No,No,0.0,,500-1000,0.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+31,male,United States,No,No,0.0,Never,500-1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+40,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,0.0,Yes,No,0.0,Yes,Very difficult,0.0,0.0,Yes,Yes,1.0,1.0,No,0.0
+34,male,United States,No,No,0.0,,26-100,0.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+25,female,Canada,No,No,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+29,male,United States,No,No,0.0,Never,26-100,0.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,No,0.0
+24,male,United States,No,Yes,0.0,Rarely,26-100,0.0,1.0,,Not sure,No,,Don't know,Somewhat easy,0.5,0.5,Some of them,No,0.0,0.5,Don't know,0.0
+31,male,Mexico,No,Yes,1.0,Sometimes,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,1.0,No,0.0
+33,male,United States,No,No,1.0,Sometimes,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,No,0.0,0.5,No,0.0
+30,male,United States,No,No,1.0,Often,1-5,0.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+26,male,Canada,No,Yes,1.0,Sometimes,26-100,0.0,0.0,0.0,Yes,No,0.0,No,Very difficult,1.0,0.0,No,No,0.0,0.5,No,1.0
+44,male,United States,No,No,0.0,Never,100-500,0.0,1.0,1.0,Not sure,Don't know,,Don't know,Don't know,0.5,0.5,No,Some of them,0.0,0.0,Don't know,0.0
+25,male,United States,No,Yes,0.0,,26-100,0.0,1.0,,No,Don't know,,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+33,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+29,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,Not sure,Yes,,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+35,male,United States,No,Yes,0.0,Rarely,6-25,0.0,1.0,1.0,Not sure,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+35,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,,Not sure,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,No,0.0
+28,male,Brazil,No,Yes,1.0,Rarely,6-25,0.0,1.0,0.0,No,No,0.0,No,Don't know,0.5,0.0,Yes,Yes,0.0,0.0,Don't know,1.0
+34,male,United States,No,Yes,0.0,Never,6-25,1.0,1.0,1.0,No,No,0.0,Don't know,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+32,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,1.0,No,Yes,1.0,Yes,Somewhat difficult,0.5,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+22,male,United States,No,No,1.0,Sometimes,500-1000,0.0,1.0,1.0,Yes,No,,Yes,Don't know,1.0,0.0,No,No,0.0,1.0,No,0.0
+28,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.5,Yes,0.0
+45,male,United States,No,Yes,1.0,Rarely,6-25,1.0,1.0,1.0,Yes,No,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,1.0,1.0,Yes,0.0
+32,male,United States,No,No,0.0,Never,100-500,0.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+28,male,United States,No,No,0.0,,More than 1000,0.0,1.0,,No,No,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+26,male,United Kingdom,No,No,0.0,Never,6-25,0.0,1.0,,No,No,,Don't know,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,1.0
+21,male,United Kingdom,Yes,No,0.0,Often,1-5,1.0,0.0,0.0,Yes,No,0.0,Yes,Very difficult,1.0,0.0,Some of them,Yes,0.0,0.5,No,0.0
+27,male,Canada,No,No,0.0,Rarely,6-25,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+35,male,United States,No,No,0.0,,26-100,1.0,1.0,,Not sure,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+29,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,No,1.0,Don't know,Don't know,1.0,1.0,No,No,0.0,0.0,Don't know,0.0
+25,male,United States,No,No,0.0,,26-100,1.0,1.0,,No,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+33,male,United States,No,Yes,1.0,Sometimes,6-25,1.0,1.0,,No,Don't know,,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+36,male,United States,No,No,0.0,Often,6-25,0.0,1.0,1.0,No,No,0.0,Yes,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+27,male,Canada,No,No,1.0,Never,100-500,0.0,0.0,1.0,Not sure,No,0.0,Don't know,Very difficult,0.5,0.0,Some of them,Yes,0.0,0.5,No,1.0
+27,male,United States,No,Yes,0.0,Never,500-1000,0.0,1.0,1.0,No,Yes,1.0,Yes,Don't know,1.0,0.0,Some of them,No,0.0,1.0,Don't know,0.0
+27,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+32,male,United States,No,No,1.0,Rarely,100-500,0.0,1.0,1.0,Yes,No,1.0,Yes,Don't know,1.0,0.0,No,Yes,0.0,0.0,Don't know,0.0
+31,male,United Kingdom,No,Yes,0.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.5,No,No,0.0,0.0,Yes,0.0
+19,male,Slovenia,No,No,1.0,Sometimes,6-25,0.0,1.0,,No,No,0.0,Don't know,Somewhat easy,1.0,1.0,Some of them,No,0.0,0.0,Don't know,0.0
+33,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,0.0,Don't know,Very easy,0.5,0.0,Yes,Some of them,0.0,1.0,No,0.0
+32,male,United States,No,No,0.0,Rarely,1-5,1.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,0.5,0.0,Yes,Some of them,0.0,1.0,Don't know,0.0
+27,male,United States,No,No,0.0,Never,26-100,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+38,male,Costa Rica,No,No,0.0,,26-100,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.5,1.0,No,0.0
+24,male,Canada,No,No,1.0,Never,26-100,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,1.0,Don't know,0.0
+39,male,United Kingdom,No,No,0.0,Never,26-100,0.0,0.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,Don't know,0.0
+28,male,United Kingdom,No,No,0.0,Never,6-25,0.0,1.0,,No,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+39,male,United States,No,No,1.0,Often,More than 1000,0.0,1.0,1.0,Not sure,No,0.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+29,male,United States,No,No,0.0,,6-25,0.0,1.0,,No,No,,Don't know,Somewhat easy,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+22,male,Austria,No,No,0.0,,6-25,1.0,1.0,,No,Don't know,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+38,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,,No,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+37,male,United Kingdom,Yes,No,1.0,Sometimes,More than 1000,0.0,0.0,0.0,Yes,Yes,1.0,Yes,Very difficult,1.0,1.0,Some of them,No,0.0,0.5,Yes,0.0
+35,male,United States,No,No,0.0,Never,26-100,1.0,0.0,,Not sure,Don't know,,Don't know,Don't know,1.0,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+30,male,United States,No,Yes,0.0,,More than 1000,1.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.5,Don't know,0.0
+37,male,United States,No,Yes,1.0,Rarely,100-500,0.0,0.0,1.0,Yes,Yes,1.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Yes,0.5,0.5,Don't know,0.0
+24,male,United Kingdom,No,No,0.0,Never,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Don't know,0.5,0.5,No,Some of them,0.0,0.0,Don't know,0.0
+23,male,United States,No,No,0.0,Sometimes,6-25,0.0,0.0,0.0,No,No,0.0,No,Somewhat easy,1.0,1.0,No,No,0.0,0.0,No,0.0
+30,male,Ireland,No,No,1.0,Rarely,100-500,0.0,1.0,0.0,Yes,Yes,1.0,Don't know,Somewhat easy,1.0,0.0,Some of them,No,0.0,0.0,No,1.0
+29,male,United States,No,No,0.0,,100-500,1.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+19,male,Canada,Yes,Yes,0.0,,1-5,1.0,1.0,,Not sure,No,1.0,Yes,Somewhat easy,0.5,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+32,male,United States,No,Yes,0.0,Never,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+28,male,Poland,No,No,0.0,Rarely,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,1.0,Yes,0.0
+36,male,United States,No,No,0.0,Never,6-25,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+37,male,United Kingdom,No,Yes,1.0,Rarely,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Somewhat difficult,1.0,0.5,Some of them,No,0.0,1.0,No,1.0
+25,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,0.0,,No,No,,Don't know,Somewhat difficult,0.5,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+27,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+26,male,United States,No,No,0.0,Often,26-100,0.0,0.0,,Not sure,No,0.0,Don't know,Don't know,1.0,0.5,Some of them,Yes,0.0,0.5,No,0.0
+27,male,United States,No,No,1.0,Rarely,26-100,1.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat difficult,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,1.0
+25,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Very easy,0.5,0.0,Some of them,No,0.0,0.0,Don't know,1.0
+36,male,United Kingdom,No,No,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.5,Don't know,1.0
+25,female,United States,No,Yes,1.0,Sometimes,500-1000,0.0,1.0,1.0,No,No,0.0,Don't know,Don't know,1.0,1.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+31,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,No,No,1.0,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+26,male,United States,No,Yes,0.0,Rarely,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+33,female,United States,Yes,Yes,1.0,Sometimes,1-5,0.0,1.0,0.0,Yes,Yes,1.0,Yes,Very difficult,0.0,0.0,Some of them,Yes,0.0,1.0,Yes,0.0
+27,male,United Kingdom,Yes,Yes,0.0,,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+34,male,United States,No,No,0.0,Never,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+42,male,United States,No,No,0.0,,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,0.5,0.0,Yes,Yes,0.0,0.5,No,0.0
+23,male,Ireland,Yes,Yes,0.0,Sometimes,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,1.0,0.0,No,No,0.0,0.5,No,0.0
+24,male,United Kingdom,No,No,0.0,Rarely,100-500,0.0,1.0,,Not sure,Yes,,Don't know,Very easy,0.5,0.5,Some of them,Some of them,0.0,0.5,Don't know,0.0
+26,male,United Kingdom,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Don't know,,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+31,male,United Kingdom,Yes,No,1.0,Often,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+22,male,India,No,No,1.0,Never,More than 1000,0.0,1.0,,Not sure,No,0.0,Don't know,Very difficult,1.0,0.5,No,No,0.5,0.5,No,0.0
+23,male,United States,No,No,0.0,,6-25,0.0,1.0,,No,No,,Don't know,Don't know,0.5,0.5,Some of them,Yes,0.0,0.5,Yes,0.0
+34,male,Canada,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,Yes,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,No,0.0
+31,male,United States,No,No,0.0,Never,26-100,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+28,male,United Kingdom,No,No,0.0,,100-500,0.0,0.0,0.0,Not sure,No,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,0.5,0.5,Yes,0.0
+32,male,United States,No,No,1.0,Often,6-25,1.0,1.0,1.0,Not sure,Don't know,,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,1.0
+45,female,United States,No,No,1.0,Sometimes,1-5,0.0,1.0,1.0,No,No,0.0,Yes,Somewhat difficult,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+33,male,United States,No,No,0.0,,6-25,1.0,1.0,,No,No,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+29,male,Mexico,No,No,0.0,Never,6-25,1.0,1.0,0.0,No,No,0.0,No,Don't know,0.5,0.5,No,Yes,0.5,1.0,No,0.0
+26,female,India,Yes,No,0.0,Sometimes,6-25,0.0,0.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+28,male,United Kingdom,No,No,0.0,Never,26-100,0.0,1.0,,No,No,,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+45,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,1.0,1.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+43,male,United States,No,Yes,1.0,Often,More than 1000,1.0,1.0,1.0,Not sure,No,,Don't know,Very difficult,1.0,0.5,No,No,0.0,0.0,No,0.0
+37,male,United States,No,No,0.0,,500-1000,1.0,1.0,1.0,No,No,0.0,Don't know,Don't know,1.0,0.0,Some of them,No,0.5,1.0,No,0.0
+24,male,United Kingdom,No,No,0.0,Sometimes,6-25,0.0,1.0,,No,No,,Don't know,Somewhat easy,0.5,0.0,Some of them,Yes,0.5,1.0,Yes,0.0
+26,male,France,No,No,0.0,,6-25,1.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,No,0.0,0.5,Yes,0.0
+23,male,United Kingdom,No,Yes,0.0,,1-5,1.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,1.0,Don't know,0.0
+35,male,United States,No,Yes,1.0,Never,More than 1000,0.0,1.0,1.0,Not sure,Don't know,0.0,Yes,Somewhat easy,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+38,male,South Africa,Yes,Yes,1.0,Often,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.5,Don't know,1.0
+28,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,No,0.0,0.5,No,0.0
+28,male,Russia,No,No,0.0,Sometimes,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+35,male,United States,No,No,1.0,Rarely,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+32,male,Germany,No,No,0.0,Sometimes,100-500,0.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,1.0,1.0,Some of them,No,0.0,0.0,No,1.0
+31,male,Italy,Yes,Yes,0.0,Never,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.5,Don't know,0.0
+35,male,United States,No,No,0.0,Never,500-1000,1.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+26,male,United States,No,No,0.0,Rarely,More than 1000,0.0,1.0,1.0,No,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,No,0.0
+27,male,United States,No,Yes,0.0,,6-25,1.0,1.0,1.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.5,Yes,0.0
+28,male,United Kingdom,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.5,Don't know,0.0
+27,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,No,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+34,male,United States,No,No,1.0,Sometimes,500-1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+41,male,United States,No,No,1.0,Often,6-25,1.0,1.0,0.0,Not sure,No,0.0,Don't know,Very difficult,0.5,0.5,Some of them,Some of them,0.5,0.5,Don't know,0.0
+37,male,Ireland,No,No,0.0,Sometimes,1-5,0.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,1.0,0.0,No,No,0.0,1.0,Don't know,0.0
+34,male,Austria,No,Yes,0.0,,100-500,1.0,1.0,,No,Don't know,,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+32,male,United Kingdom,No,Yes,1.0,Sometimes,100-500,1.0,1.0,,Not sure,No,0.0,Don't know,Somewhat difficult,1.0,0.5,No,No,0.0,0.0,No,1.0
+21,male,Canada,No,No,1.0,Sometimes,6-25,1.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Some of them,Some of them,0.5,0.5,Yes,0.0
+30,male,United States,No,No,1.0,Often,26-100,0.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.5,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+24,male,United States,No,No,0.0,Never,26-100,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+26,male,Bulgaria,No,No,0.0,,100-500,0.0,1.0,0.0,No,No,0.0,No,Very easy,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+40,male,United States,No,No,0.0,,26-100,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+37,male,United Kingdom,No,Yes,0.0,Sometimes,26-100,0.0,0.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.5,Some of them,Yes,0.0,0.5,Don't know,0.0
+26,male,United Kingdom,Yes,No,1.0,Often,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+32,female,United States,No,Yes,1.0,Sometimes,6-25,0.0,1.0,,No,No,0.0,No,Don't know,1.0,0.5,Some of them,Some of them,0.0,0.5,No,1.0
+32,female,United States,No,No,1.0,Sometimes,100-500,0.0,0.0,1.0,Yes,Don't know,,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,1.0,Yes,0.0
+27,male,United States,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,No,Don't know,,Don't know,Very difficult,0.0,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+30,male,Germany,Yes,No,1.0,Often,6-25,1.0,1.0,1.0,Yes,No,0.0,Yes,Very difficult,0.0,0.0,Some of them,Yes,0.5,1.0,Yes,0.0
+31,male,Canada,Yes,No,0.0,,6-25,0.0,1.0,1.0,Yes,No,,Yes,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+29,female,United States,No,No,1.0,Never,500-1000,0.0,0.0,1.0,No,No,,Don't know,Somewhat difficult,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+41,male,United States,No,No,0.0,,26-100,0.0,1.0,1.0,Not sure,No,0.0,Don't know,Very easy,1.0,0.0,No,Some of them,0.0,0.0,Don't know,0.0
+34,male,United States,No,No,0.0,,6-25,0.0,1.0,1.0,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+33,male,United Kingdom,No,No,0.0,,26-100,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,1.0,1.0,Don't know,0.0
+28,male,United States,No,No,0.0,Rarely,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+28,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,0.0,Yes,No,0.0,Yes,Very difficult,1.0,0.0,No,Some of them,0.0,0.0,No,0.0
+23,male,United States,No,No,0.0,Never,26-100,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,No,Yes,0.0,1.0,Yes,0.0
+24,male,United States,No,No,0.0,,1-5,0.0,1.0,,No,Don't know,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,1.0,Yes,0.0
+32,male,United States,No,No,0.0,Rarely,1-5,1.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+34,male,Australia,Yes,No,0.0,Sometimes,1-5,1.0,1.0,,Not sure,Yes,1.0,Don't know,Somewhat difficult,1.0,1.0,No,No,0.0,0.5,Yes,0.0
+24,male,United States,No,No,0.0,Never,6-25,0.0,1.0,1.0,Not sure,No,,Don't know,Very easy,0.5,0.0,Some of them,No,0.5,0.5,Yes,0.0
+26,male,United Kingdom,Yes,No,1.0,Sometimes,1-5,0.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Yes,0.0
+36,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,1.0,No,No,1.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,1.0
+41,male,United States,No,No,1.0,Rarely,500-1000,1.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.5,0.5,Some of them,No,0.5,0.5,No,0.0
+38,male,United Kingdom,No,No,1.0,Sometimes,More than 1000,0.0,0.0,,Not sure,Don't know,,Don't know,Very difficult,1.0,0.0,No,No,0.0,0.5,No,0.0
+38,male,United States,No,No,0.0,Sometimes,26-100,1.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.5,Some of them,Yes,0.0,0.5,No,0.0
+30,male,Netherlands,No,No,0.0,,26-100,0.0,1.0,,No,Don't know,,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+25,male,United Kingdom,No,No,0.0,Never,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,1.0,0.5,No,No,0.0,0.5,No,0.0
+37,male,Canada,No,Yes,1.0,Often,26-100,0.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,1.0,Don't know,0.0
+34,male,United Kingdom,No,Yes,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Somewhat difficult,0.0,0.0,Some of them,Yes,0.0,1.0,No,1.0
+37,female,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.5,Yes,0.0
+28,male,Canada,No,Yes,1.0,Sometimes,6-25,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,No,1.0
+22,male,Sweden,No,No,0.0,,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,No,0.0
+34,male,United States,No,Yes,1.0,Sometimes,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,0.5,0.0,Some of them,Some of them,0.0,0.5,No,1.0
+33,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+25,male,South Africa,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Somewhat difficult,0.5,0.0,Some of them,Yes,0.0,1.0,No,0.0
+27,male,United States,No,No,0.0,Never,More than 1000,1.0,1.0,1.0,Yes,Don't know,,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+40,male,United States,No,No,1.0,Sometimes,More than 1000,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Don't know,1.0,0.5,No,No,0.0,0.5,No,1.0
+21,male,United States,No,No,1.0,Often,6-25,0.0,0.0,,No,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+29,male,United Kingdom,No,No,0.0,,6-25,0.0,0.0,0.0,No,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,1.0,Yes,0.0
+32,male,United States,No,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Yes,Yes,0.0,1.0,Don't know,0.0
+29,female,United States,No,Yes,1.0,Rarely,500-1000,1.0,0.0,1.0,Yes,Yes,,Yes,Don't know,0.5,0.0,Some of them,No,0.5,1.0,Don't know,0.0
+23,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,0.0,,No,No,,Yes,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,1.0,Yes,0.0
+28,male,United States,No,Yes,0.0,,100-500,0.0,1.0,1.0,No,No,,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,1.0
+31,male,United States,No,Yes,1.0,Rarely,100-500,1.0,1.0,1.0,Yes,Yes,,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+27,male,United Kingdom,No,No,0.0,,100-500,0.0,0.0,,Not sure,Don't know,,No,Very easy,0.5,0.5,Yes,Yes,0.0,0.0,Don't know,0.0
+24,male,United States,No,No,0.0,Sometimes,6-25,0.0,1.0,,No,Don't know,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+29,male,Canada,No,No,0.0,Often,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+23,male,United Kingdom,No,No,1.0,Sometimes,6-25,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.5,Yes,0.0
+42,male,United States,No,No,0.0,Never,6-25,1.0,1.0,0.0,Yes,No,1.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+24,male,United Kingdom,No,No,0.0,,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.0,Some of them,Some of them,0.0,1.0,No,0.0
+25,male,Australia,No,Yes,1.0,Often,6-25,0.0,1.0,0.0,Yes,No,0.0,No,Very difficult,1.0,0.5,No,No,0.0,1.0,No,1.0
+27,male,United States,No,No,1.0,Rarely,6-25,0.0,1.0,1.0,No,No,0.0,Yes,Don't know,0.5,0.5,Yes,No,0.0,0.5,Don't know,0.0
+27,male,Canada,No,No,0.0,Sometimes,6-25,1.0,1.0,0.0,Yes,No,0.0,No,Very difficult,1.0,1.0,Some of them,Some of them,0.0,0.5,No,0.0
+30,male,United States,No,No,1.0,Sometimes,100-500,1.0,1.0,1.0,Yes,No,1.0,Yes,Don't know,0.0,0.0,Yes,Yes,0.5,0.0,Yes,0.0
+29,male,Poland,No,Yes,1.0,Rarely,6-25,0.0,1.0,0.0,Yes,No,0.0,Yes,Very difficult,0.5,0.0,Some of them,Some of them,0.0,1.0,No,0.0
+43,male,Canada,Yes,No,0.0,,6-25,1.0,1.0,0.0,Not sure,No,0.0,Don't know,Somewhat easy,0.5,0.0,Yes,Yes,1.0,1.0,Don't know,0.0
+32,male,United States,No,No,0.0,,6-25,0.0,1.0,0.0,Yes,No,,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+41,male,United States,No,No,1.0,Sometimes,26-100,1.0,1.0,1.0,Yes,Don't know,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,1.0,1.0,Yes,0.0
+32,male,United Kingdom,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,,Not sure,Don't know,,Don't know,Very easy,0.5,0.5,Yes,Some of them,0.5,0.5,Don't know,1.0
+37,male,United States,No,Yes,1.0,Often,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,0.5,0.0,Some of them,Some of them,0.0,1.0,Don't know,0.0
+32,male,United States,No,No,0.0,Never,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+30,male,Ireland,Yes,No,0.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+23,male,United States,No,Yes,1.0,Never,100-500,0.0,0.0,1.0,No,Don't know,,Yes,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+30,male,United States,No,No,0.0,,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+34,male,United Kingdom,No,No,0.0,Sometimes,26-100,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.5,Yes,Some of them,0.0,0.0,Don't know,0.0
+38,male,United States,No,No,1.0,Rarely,26-100,1.0,1.0,1.0,No,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.5,No,0.0
+33,male,Canada,No,No,0.0,,100-500,0.0,1.0,1.0,No,Yes,1.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+34,male,United States,No,No,0.0,,26-100,0.0,0.0,1.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+28,male,Colombia,No,No,0.0,Sometimes,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.5,No,Some of them,0.0,0.0,Don't know,0.0
+28,male,United States,No,No,1.0,Rarely,100-500,0.0,0.0,1.0,Yes,Yes,,Don't know,Very easy,0.5,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+23,male,United States,No,Yes,0.0,Sometimes,100-500,0.0,1.0,,No,No,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,No,0.0
+22,male,Australia,Yes,Yes,1.0,Sometimes,6-25,1.0,1.0,,Not sure,Yes,1.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,1.0,No,1.0
+27,male,Portugal,No,No,0.0,Never,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Don't know,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+35,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Somewhat difficult,1.0,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+25,male,Canada,No,No,0.0,,100-500,0.0,0.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,1.0,No,0.0
+27,male,United Kingdom,No,Yes,1.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Somewhat easy,0.5,0.5,Yes,Yes,1.0,1.0,Yes,0.0
+26,male,United States,No,Yes,1.0,Rarely,More than 1000,0.0,1.0,1.0,Not sure,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+38,male,United States,No,No,1.0,Sometimes,1-5,0.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.0,0.5,Some of them,No,0.0,0.0,Don't know,1.0
+26,male,United States,No,Yes,1.0,Rarely,More than 1000,1.0,1.0,1.0,Yes,Yes,,Don't know,Somewhat easy,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+30,male,Switzerland,Yes,No,0.0,Never,1-5,0.0,1.0,0.0,No,No,0.0,No,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+35,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,,No,No,,Don't know,Don't know,1.0,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+45,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Don't know,,Yes,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+32,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,No,No,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+56,male,United States,No,No,1.0,Never,More than 1000,0.0,1.0,1.0,Not sure,Don't know,,Don't know,Don't know,0.0,0.5,Yes,Some of them,0.0,0.5,Don't know,0.0
+24,male,United States,No,No,0.0,,500-1000,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.5,No,0.0
+30,female,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,Yes,,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,1.0,Yes,0.0
+60,male,United States,No,No,0.0,,More than 1000,0.0,1.0,1.0,No,Don't know,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+33,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,No,Yes,1.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+37,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+23,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+31,female,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Not sure,Don't know,,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+26,male,United States,No,No,0.0,Rarely,100-500,0.0,1.0,1.0,Not sure,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+28,male,United States,No,Yes,1.0,Often,100-500,1.0,0.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,1.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+37,female,United States,No,No,1.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Don't know,1.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+26,male,Canada,No,Yes,1.0,Often,6-25,0.0,1.0,1.0,No,No,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.5,0.5,Yes,0.0
+30,other,United States,No,Yes,1.0,Rarely,26-100,0.0,1.0,1.0,Not sure,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+26,male,United States,No,No,0.0,,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,1.0
+25,male,United States,No,No,0.0,,26-100,1.0,1.0,,Not sure,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+27,male,United States,No,No,0.0,Sometimes,100-500,0.0,1.0,1.0,Not sure,Yes,1.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+25,male,Canada,No,No,1.0,Often,6-25,1.0,0.0,,No,No,,Don't know,Somewhat difficult,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+35,male,United States,No,No,1.0,Rarely,100-500,0.0,1.0,1.0,Not sure,Don't know,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+36,male,United States,Yes,No,1.0,Never,1-5,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+26,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Not sure,No,,Don't know,Don't know,1.0,0.0,No,No,0.0,0.0,No,0.0
+27,male,United States,No,Yes,0.0,,More than 1000,0.0,1.0,,No,Don't know,,Don't know,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+30,male,United States,No,No,0.0,,6-25,0.0,0.0,,Not sure,No,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+29,male,United States,No,No,0.0,,100-500,0.0,0.0,,Not sure,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+25,male,United States,No,No,0.0,Never,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+22,male,United States,No,Yes,1.0,Often,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.0,No,Some of them,0.0,0.0,Yes,1.0
+29,male,Latvia,No,No,0.0,,26-100,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+41,male,United States,No,Yes,1.0,Rarely,100-500,1.0,1.0,1.0,Yes,Don't know,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+29,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,No,No,,Don't know,Don't know,1.0,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+32,male,United States,No,No,0.0,Never,500-1000,0.0,1.0,1.0,Not sure,Don't know,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+24,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,1.0,Yes,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+25,male,United States,No,No,1.0,Rarely,6-25,0.0,1.0,1.0,No,Don't know,0.0,Don't know,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+25,male,United States,No,No,0.0,,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+30,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.5,No,Some of them,0.0,0.0,Don't know,0.0
+25,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,,Not sure,Don't know,1.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+30,male,United States,Yes,No,0.0,Never,1-5,1.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+33,male,Germany,Yes,Yes,1.0,Rarely,1-5,0.0,0.0,0.0,No,No,0.0,Don't know,Somewhat difficult,1.0,1.0,No,No,0.5,0.0,Yes,1.0
+24,male,United States,No,No,0.0,,26-100,0.0,1.0,1.0,Not sure,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.5,Yes,0.0
+25,male,Canada,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,,Don't know,Don't know,1.0,0.5,Some of them,No,0.0,0.0,No,0.0
+31,male,United States,No,No,0.0,,100-500,0.0,0.0,,No,No,0.0,Yes,Somewhat easy,0.5,0.0,No,No,0.0,1.0,No,0.0
+45,male,Ireland,Yes,No,1.0,Often,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,0.0,0.0,No,No,0.0,0.0,Don't know,0.0
+29,male,Romania,No,No,0.0,,6-25,1.0,0.0,0.0,Yes,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.5,0.5,No,0.0
+46,male,United States,No,No,0.0,Never,26-100,0.0,1.0,1.0,Not sure,Yes,,Don't know,Very easy,0.0,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+30,male,United Kingdom,No,No,1.0,Sometimes,26-100,0.0,1.0,,No,No,,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+29,female,United States,Yes,No,0.0,Sometimes,More than 1000,0.0,1.0,1.0,Not sure,Don't know,0.0,Don't know,Very easy,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+24,male,United States,No,No,0.0,,More than 1000,0.0,1.0,1.0,Yes,Don't know,,Yes,Don't know,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+29,male,United States,No,No,0.0,,26-100,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+35,male,United States,No,No,0.0,,26-100,0.0,0.0,,Not sure,No,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,No,0.0
+33,female,United States,No,Yes,0.0,Sometimes,26-100,1.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,1.0,0.5,Some of them,Some of them,0.0,0.5,No,0.0
+27,male,United States,No,No,0.0,Sometimes,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Very easy,1.0,0.0,No,No,0.0,0.5,No,0.0
+36,male,United States,No,No,0.0,,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+33,male,United Kingdom,No,No,0.0,Rarely,1-5,1.0,1.0,,No,No,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,No,0.0
+25,female,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+23,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,0.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,1.0,Don't know,0.0
+54,male,United States,No,Yes,1.0,Never,More than 1000,0.0,1.0,,No,Yes,1.0,Don't know,Don't know,0.0,0.0,No,Yes,0.0,0.0,Don't know,0.0
+22,male,United States,No,No,0.0,Sometimes,More than 1000,0.0,1.0,,No,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+25,other,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+29,male,Belgium,No,No,0.0,Often,6-25,0.0,0.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+27,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.0,0.0,No,No,0.0,1.0,Yes,0.0
+30,male,United Kingdom,No,No,0.0,Never,6-25,0.0,1.0,0.0,No,No,,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+26,male,United States,No,Yes,1.0,Often,More than 1000,0.0,1.0,1.0,Not sure,Don't know,1.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+25,male,Sweden,No,Yes,0.0,Sometimes,6-25,0.0,1.0,1.0,Yes,Yes,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,No,0.0
+31,male,United States,No,No,1.0,Sometimes,500-1000,0.0,0.0,0.0,Yes,No,,Yes,Don't know,0.0,0.0,Some of them,No,0.0,0.0,No,0.0
+33,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+34,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Don't know,1.0,Yes,Don't know,0.5,0.5,No,No,0.0,0.0,Don't know,0.0
+34,male,United States,No,No,1.0,Sometimes,100-500,1.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,1.0,1.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+29,male,United States,Yes,No,0.0,,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+33,male,United States,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+34,male,Germany,Yes,Yes,1.0,Rarely,26-100,1.0,1.0,0.0,No,No,,Don't know,Somewhat difficult,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+26,male,United States,Yes,Yes,1.0,Rarely,100-500,1.0,0.0,0.0,No,No,,No,Don't know,0.5,0.0,Some of them,Yes,0.0,1.0,No,0.0
+32,male,United States,No,Yes,1.0,Rarely,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,1.0,Yes,0.0
+28,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,,Not sure,No,,Don't know,Somewhat difficult,0.5,0.5,No,No,0.0,0.0,No,0.0
+35,male,United States,No,Yes,0.0,,More than 1000,0.0,1.0,1.0,No,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+36,male,United States,No,Yes,1.0,Often,100-500,0.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+21,male,United States,No,Yes,1.0,Rarely,100-500,0.0,1.0,1.0,No,No,,Yes,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+21,male,United Kingdom,No,No,1.0,Sometimes,6-25,0.0,0.0,,Not sure,No,0.0,No,Very easy,1.0,0.0,Some of them,No,0.0,0.5,No,0.0
+22,female,United States,No,No,0.0,,More than 1000,0.0,1.0,1.0,No,Yes,1.0,Yes,Somewhat easy,0.0,0.0,No,Some of them,0.0,0.0,Yes,0.0
+41,male,United States,No,Yes,1.0,Often,More than 1000,0.0,1.0,1.0,No,Yes,1.0,Don't know,Somewhat difficult,0.5,0.0,Yes,Some of them,0.0,0.5,No,1.0
+55,male,United States,No,Yes,1.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+32,female,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+21,female,United States,No,Yes,1.0,Rarely,26-100,0.0,1.0,,Not sure,Don't know,0.0,Don't know,Somewhat easy,1.0,0.0,Some of them,No,0.0,1.0,Don't know,0.0
+45,male,United States,No,No,1.0,Never,26-100,1.0,1.0,1.0,Yes,Don't know,,Don't know,Don't know,0.5,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+27,male,United States,No,No,1.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,1.0,0.5,No,No,0.0,0.0,No,0.0
+25,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+34,male,United States,No,Yes,1.0,Rarely,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Very difficult,0.5,0.5,Some of them,Some of them,0.0,0.0,Yes,0.0
+26,female,United States,No,Yes,1.0,Never,More than 1000,0.0,1.0,1.0,Yes,No,1.0,Yes,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+41,male,Canada,No,No,1.0,Never,500-1000,0.0,1.0,1.0,Not sure,No,,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+27,male,United States,No,No,1.0,Rarely,More than 1000,0.0,1.0,1.0,No,Yes,1.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+31,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,1.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+25,male,Germany,No,Yes,1.0,Often,26-100,1.0,1.0,0.0,No,No,0.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.0,1.0,No,0.0
+26,male,United States,No,No,1.0,Sometimes,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,1.0,1.0,Some of them,No,0.0,0.0,No,0.0
+27,male,United States,No,Yes,1.0,Rarely,More than 1000,1.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.5,0.5,No,Yes,0.0,0.0,Don't know,0.0
+42,male,New Zealand,No,No,0.0,Never,500-1000,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+29,other,United States,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,1.0,Yes,No,0.0,Don't know,Very difficult,1.0,0.0,Some of them,No,0.0,0.5,No,0.0
+25,male,United States,No,No,1.0,Sometimes,6-25,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat difficult,1.0,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+33,male,Sweden,No,Yes,1.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,No,1.0,Yes,Don't know,0.5,0.0,Some of them,No,0.0,1.0,Don't know,0.0
+40,male,United States,No,Yes,1.0,Rarely,More than 1000,0.0,0.0,1.0,No,Don't know,,Don't know,Somewhat easy,0.5,0.5,No,No,0.0,0.0,Don't know,0.0
+31,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,,No,No,,Don't know,Somewhat easy,1.0,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+26,male,Canada,No,Yes,1.0,Often,26-100,1.0,1.0,,No,Don't know,,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+24,male,United States,No,Yes,0.0,,500-1000,0.0,0.0,0.0,No,No,0.0,No,Very difficult,1.0,0.5,No,No,0.0,0.5,No,1.0
+29,male,United States,No,No,0.0,Never,More than 1000,0.0,0.0,1.0,Not sure,No,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+48,male,United Kingdom,No,No,0.0,,26-100,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.5,No,No,0.0,0.0,No,0.0
+35,male,United Kingdom,No,No,0.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,0.5,0.5,Some of them,Yes,0.0,0.5,No,1.0
+32,male,United States,No,No,0.0,Never,100-500,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+29,male,Canada,No,No,1.0,Sometimes,100-500,0.0,1.0,,Not sure,Don't know,,Yes,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.5,Yes,0.0
+26,male,United States,No,Yes,1.0,Often,6-25,0.0,1.0,1.0,Yes,No,0.0,Don't know,Somewhat difficult,0.5,0.0,Some of them,Yes,0.0,0.0,No,0.0
+28,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,No,0.0
+23,male,United States,No,No,0.0,,More than 1000,0.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,No,0.0
+35,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Yes,No,0.0,Don't know,Very difficult,0.5,0.5,Some of them,Some of them,0.0,0.5,No,1.0
+29,male,Germany,No,Yes,1.0,Sometimes,26-100,0.0,1.0,,No,No,0.0,Don't know,Very easy,0.5,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+26,male,United States,No,Yes,0.0,,6-25,0.0,1.0,1.0,Yes,No,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,No,0.0
+33,male,United States,No,Yes,1.0,Never,26-100,1.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,1.0,0.5,Yes,Some of them,0.0,0.0,Yes,0.0
+33,male,United States,No,No,0.0,,More than 1000,1.0,1.0,,No,Don't know,,Don't know,Don't know,1.0,0.0,Some of them,No,0.0,0.5,Yes,0.0
+22,male,Brazil,Yes,No,0.0,Never,6-25,1.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.5,0.0,Don't know,0.0
+30,male,Spain,No,Yes,0.0,,500-1000,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,Don't know,0.0
+33,male,United States,No,Yes,1.0,Often,More than 1000,1.0,1.0,1.0,Yes,No,0.0,Don't know,Somewhat easy,1.0,0.0,No,No,0.0,0.0,No,0.0
+31,male,United States,No,Yes,1.0,Rarely,More than 1000,0.0,0.0,,Not sure,No,,Don't know,Very difficult,1.0,0.5,No,No,0.0,0.5,No,0.0
+21,male,United States,No,Yes,0.0,Never,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,1.0
+31,other,United Kingdom,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,,No,No,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,1.0,Yes,0.0
+26,female,United States,No,No,1.0,Sometimes,100-500,1.0,1.0,,Not sure,Don't know,,Don't know,Somewhat difficult,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+30,male,United States,No,Yes,0.0,Often,6-25,0.0,1.0,,No,No,,Don't know,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+30,female,Germany,No,Yes,1.0,Sometimes,100-500,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Yes,Yes,0.5,0.5,No,0.0
+23,male,India,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,No,0.0
+34,male,Finland,No,No,0.0,Never,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+55,male,United States,No,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,Yes,No,,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,No,1.0
+28,male,Germany,No,Yes,1.0,Rarely,1-5,1.0,1.0,1.0,No,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+26,male,Uruguay,No,No,0.0,,26-100,1.0,1.0,,No,Don't know,0.0,Don't know,Don't know,0.0,0.0,Some of them,No,0.0,1.0,Don't know,0.0
+28,male,New Zealand,No,Yes,1.0,Sometimes,6-25,1.0,1.0,1.0,Yes,Yes,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,1.0,1.0,Yes,0.0
+32,male,United Kingdom,No,Yes,1.0,Sometimes,6-25,0.0,1.0,0.0,No,No,,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+28,male,United States,No,No,1.0,Rarely,More than 1000,0.0,0.0,1.0,Yes,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+21,male,United States,No,No,0.0,Sometimes,6-25,0.0,0.0,,Not sure,No,1.0,Yes,Don't know,0.0,0.0,Some of them,Some of them,0.5,0.5,Yes,0.0
+24,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat difficult,1.0,0.0,Some of them,Some of them,0.0,0.5,No,1.0
+26,male,United States,No,No,0.0,,More than 1000,0.0,0.0,1.0,Not sure,Yes,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+23,male,United States,No,No,0.0,,More than 1000,0.0,0.0,1.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,No,0.0,1.0,Don't know,0.0
+24,male,United States,No,No,0.0,,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,1.0,1.0,Yes,0.0
+28,male,Canada,Yes,No,0.0,Never,100-500,1.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+24,female,United States,No,Yes,1.0,Rarely,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,1.0,0.0,No,Some of them,0.0,1.0,Yes,0.0
+33,male,United States,Yes,No,1.0,Often,1-5,1.0,1.0,0.0,No,No,0.0,Yes,Somewhat easy,1.0,0.5,Some of them,Some of them,1.0,1.0,Don't know,0.0
+34,male,United States,No,No,0.0,Sometimes,26-100,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+27,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat difficult,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+28,male,United States,No,No,0.0,Never,6-25,0.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+26,male,United States,No,No,0.0,,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,1.0
+20,male,Australia,No,No,0.0,,100-500,1.0,1.0,,Not sure,Don't know,,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+23,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+29,male,United States,No,Yes,1.0,Rarely,1-5,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+26,male,United Kingdom,No,Yes,0.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,No,No,0.0,0.5,No,0.0
+36,male,United States,No,No,0.0,Rarely,More than 1000,1.0,1.0,1.0,No,Yes,,Don't know,Somewhat easy,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+41,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.5,0.0,Some of them,Yes,0.5,1.0,Yes,1.0
+33,male,United States,No,No,0.0,,100-500,1.0,1.0,1.0,No,Don't know,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+23,male,Canada,No,Yes,1.0,Sometimes,6-25,0.0,1.0,1.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+39,male,United States,No,Yes,0.0,Often,More than 1000,0.0,1.0,1.0,No,No,,Don't know,Don't know,1.0,0.0,Some of them,Some of them,0.0,0.5,No,1.0
+34,male,United States,No,Yes,0.0,,More than 1000,0.0,1.0,1.0,Not sure,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,1.0
+26,female,United States,No,No,1.0,Sometimes,100-500,0.0,1.0,1.0,Yes,No,0.0,Don't know,Somewhat difficult,1.0,0.5,Some of them,Some of them,0.0,0.0,No,1.0
+24,male,United States,No,No,1.0,Rarely,26-100,0.0,1.0,1.0,Yes,Yes,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+37,male,Canada,No,Yes,1.0,Rarely,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+43,male,United States,Yes,Yes,1.0,Often,6-25,1.0,1.0,1.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+40,other,United States,No,Yes,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,Yes,,Yes,Don't know,1.0,0.5,No,Some of them,0.0,0.5,Yes,0.0
+30,male,United States,No,Yes,1.0,Often,More than 1000,0.0,1.0,1.0,Yes,Yes,0.0,Don't know,Very difficult,1.0,0.0,Some of them,No,0.0,0.0,No,1.0
+34,male,United States,No,No,1.0,Sometimes,6-25,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,1.0,1.0,Some of them,No,0.0,0.0,Don't know,0.0
+27,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,,Not sure,No,,Don't know,Don't know,1.0,0.0,No,No,0.0,1.0,Don't know,0.0
+36,male,United States,No,No,0.0,Sometimes,More than 1000,0.0,1.0,,No,No,0.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.5,1.0,Don't know,0.0
+27,male,Brazil,No,No,0.0,Rarely,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+35,male,Netherlands,No,Yes,0.0,Never,100-500,0.0,1.0,1.0,No,No,0.0,Yes,Don't know,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+32,male,United Kingdom,No,No,0.0,Never,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,1.0,Yes,0.0
+37,male,United States,No,No,0.0,,500-1000,0.0,1.0,1.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+29,male,United Kingdom,No,No,0.0,,26-100,0.0,1.0,,No,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+33,male,United States,No,No,0.0,Never,500-1000,0.0,1.0,1.0,Not sure,Yes,1.0,Don't know,Very easy,0.5,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+28,male,United States,No,No,0.0,Sometimes,6-25,1.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,1.0,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+26,male,United States,No,Yes,0.0,Never,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat difficult,0.5,0.5,Some of them,No,0.0,0.5,No,0.0
+27,male,United States,No,Yes,1.0,Sometimes,6-25,1.0,1.0,,No,Yes,,Don't know,Somewhat easy,1.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+38,male,United Kingdom,Yes,No,1.0,Sometimes,26-100,1.0,1.0,0.0,No,No,0.0,Yes,Somewhat easy,0.5,0.5,Some of them,Yes,0.0,0.5,Yes,0.0
+57,male,United States,No,Yes,1.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.5,No,0.0
+28,male,United Kingdom,No,No,1.0,Sometimes,More than 1000,0.0,1.0,0.0,No,No,0.0,No,Very difficult,1.0,0.5,No,Some of them,0.0,0.5,No,0.0
+26,male,France,No,No,0.0,Never,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Yes,Yes,0.5,0.5,No,0.0
+42,female,Netherlands,No,No,1.0,Rarely,100-500,1.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,1.0,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+31,male,United States,No,No,1.0,Sometimes,100-500,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+58,male,United States,No,No,1.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,1.0,Yes,0.0
+29,male,United States,No,No,0.0,Sometimes,6-25,0.0,1.0,,No,No,0.0,Don't know,Very difficult,1.0,0.0,No,No,0.0,0.5,No,0.0
+39,male,United Kingdom,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,1.0,Don't know,Don't know,1.0,0.0,Some of them,Some of them,0.0,0.5,No,1.0
+34,male,United States,No,No,0.0,Sometimes,6-25,1.0,1.0,,No,No,0.0,Don't know,Very difficult,0.5,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+57,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Not sure,Yes,1.0,Don't know,Don't know,0.5,0.5,No,No,0.0,0.5,Don't know,0.0
+27,male,Germany,No,Yes,1.0,Sometimes,6-25,0.0,1.0,0.0,Not sure,No,0.0,Don't know,Somewhat difficult,1.0,0.5,Some of them,No,0.0,0.0,No,1.0
+23,male,Germany,Yes,Yes,1.0,Often,26-100,1.0,1.0,,No,Don't know,,Don't know,Don't know,0.0,0.5,Yes,Yes,0.5,1.0,Don't know,0.0
+30,male,United States,No,No,0.0,,100-500,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+23,male,United States,No,No,0.0,Never,26-100,0.0,0.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,1.0,Yes,0.0
+43,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,1.0,0.5,No,No,0.0,1.0,Don't know,0.0
+29,male,United States,No,No,1.0,Rarely,6-25,0.0,1.0,1.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+48,male,United States,No,No,0.0,Never,6-25,0.0,1.0,,No,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+43,male,Germany,No,No,1.0,Sometimes,26-100,0.0,0.0,0.0,Yes,Don't know,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,1.0,No,1.0
+28,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,1.0,0.5,Some of them,No,0.0,0.5,Don't know,0.0
+30,male,United States,Yes,Yes,1.0,Often,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+26,male,Israel,No,No,0.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Very easy,0.5,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+33,male,Italy,No,No,0.0,Never,6-25,0.0,0.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,No,0.0
+31,male,United States,No,No,0.0,,More than 1000,0.0,1.0,1.0,Not sure,Don't know,,Yes,Don't know,0.0,0.0,No,Some of them,0.0,0.0,Yes,0.0
+30,male,United States,No,No,0.0,Rarely,100-500,0.0,0.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+27,male,Israel,No,No,0.0,,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,1.0,0.0,Some of them,No,0.0,0.5,No,1.0
+24,male,United States,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,No,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,1.0
+25,male,United States,No,No,0.0,,26-100,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+23,male,United States,No,Yes,1.0,Often,More than 1000,0.0,1.0,1.0,Not sure,Don't know,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Yes,1.0
+36,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Not sure,No,0.0,Don't know,Somewhat difficult,1.0,0.5,Some of them,No,0.0,0.0,No,1.0
+25,male,United States,Yes,Yes,1.0,Often,1-5,1.0,1.0,,Not sure,No,0.0,Yes,Somewhat difficult,1.0,0.0,Some of them,No,0.0,0.5,No,1.0
+54,male,United Kingdom,No,No,1.0,Sometimes,More than 1000,1.0,0.0,0.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,No,0.0
+34,male,Netherlands,No,No,0.0,Rarely,6-25,0.0,1.0,,Not sure,Don't know,,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.5,Yes,0.0
+38,male,United States,No,No,1.0,,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,0.5,0.5,No,No,0.0,0.0,No,0.0
+40,male,Ireland,Yes,Yes,0.0,,More than 1000,0.0,1.0,0.0,No,No,0.0,No,Don't know,1.0,0.5,Some of them,No,0.0,0.5,No,1.0
+32,male,United Kingdom,No,No,0.0,,26-100,0.0,1.0,0.0,Not sure,No,,Don't know,Don't know,0.0,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+25,male,Germany,No,No,0.0,Never,More than 1000,0.0,0.0,,Not sure,Don't know,1.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,1.0,Don't know,0.0
+35,male,United States,No,No,1.0,Sometimes,100-500,0.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,No,0.0
+46,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Yes,0.0
+42,male,United States,No,No,0.0,Never,100-500,0.0,0.0,1.0,No,Yes,0.0,Don't know,Very difficult,0.5,0.0,Yes,Yes,0.5,1.0,No,0.0
+32,male,United Kingdom,No,Yes,1.0,Sometimes,6-25,1.0,1.0,1.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+47,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,1.0,Yes,0.0
+22,male,United States,No,No,0.0,,More than 1000,0.0,1.0,1.0,Not sure,Yes,,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+33,male,United States,No,No,1.0,Sometimes,500-1000,1.0,1.0,1.0,Yes,Yes,1.0,Don't know,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+25,female,United States,No,No,0.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,No,Somewhat easy,0.5,0.0,Some of them,No,0.0,0.0,Yes,0.0
+29,male,United States,No,No,0.0,,More than 1000,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+39,male,United States,No,No,0.0,Never,26-100,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+38,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Not sure,Yes,1.0,Yes,Don't know,1.0,0.0,No,No,0.0,0.0,No,0.0
+43,male,United States,No,No,0.0,,6-25,1.0,1.0,,No,No,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+46,male,United States,No,No,1.0,Rarely,500-1000,1.0,1.0,1.0,Not sure,Yes,1.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+38,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.5,0.0,Yes,Yes,0.0,0.0,No,1.0
+33,male,Germany,No,No,1.0,Sometimes,6-25,0.0,1.0,1.0,Yes,No,0.0,Yes,Very easy,1.0,1.0,Some of them,Some of them,0.0,0.5,No,0.0
+34,male,United Kingdom,No,Yes,1.0,Often,26-100,0.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.5,0.5,Yes,Yes,0.0,0.0,No,0.0
+62,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,Don't know,1.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+23,female,United States,No,No,0.0,,More than 1000,0.0,0.0,,Not sure,Don't know,,Yes,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+35,male,United States,No,No,0.0,,More than 1000,0.0,0.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,No,No,0.0,0.0,No,0.0
+25,male,Bosnia and Herzegovina,No,Yes,0.0,Rarely,26-100,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,1.0,No,No,0.0,0.0,Don't know,1.0
+36,male,United States,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,,Yes,Don't know,0.0,Yes,Somewhat difficult,0.5,0.0,Some of them,Yes,0.0,1.0,Yes,0.0
+41,male,United States,No,Yes,1.0,Rarely,500-1000,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.5,0.5,Some of them,Some of them,0.0,0.0,Yes,0.0
+24,male,Austria,Yes,No,0.0,Sometimes,1-5,0.0,1.0,1.0,Yes,Don't know,,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,0.5,0.5,Yes,0.0
+51,male,New Zealand,No,No,1.0,Sometimes,26-100,1.0,1.0,0.0,Yes,Yes,0.0,No,Somewhat difficult,1.0,1.0,No,No,0.0,0.0,Don't know,1.0
+29,male,United States,No,No,1.0,Sometimes,6-25,0.0,1.0,1.0,Yes,No,1.0,Yes,Very easy,0.0,0.0,No,Some of them,0.0,0.0,Yes,0.0
+31,male,Canada,Yes,Yes,1.0,Sometimes,100-500,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.5,Some of them,Yes,0.0,0.0,Yes,0.0
+27,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,1.0,Don't know,0.0
+31,male,Australia,No,No,1.0,Rarely,100-500,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,1.0,1.0,No,0.0
+27,male,Hungary,Yes,Yes,0.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,No,Very difficult,1.0,0.5,No,No,0.0,0.5,No,0.0
+23,male,Sweden,No,No,0.0,Rarely,6-25,0.0,1.0,,No,No,,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+21,male,Canada,No,No,0.0,Never,26-100,0.0,1.0,,Not sure,Don't know,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+27,male,Australia,No,Yes,1.0,Sometimes,6-25,0.0,1.0,0.0,Yes,No,0.0,No,Somewhat difficult,1.0,0.0,Some of them,Some of them,0.0,0.0,No,0.0
+39,male,United States,No,Yes,1.0,Often,26-100,1.0,1.0,1.0,Yes,Yes,1.0,Don't know,Somewhat easy,1.0,0.0,Some of them,Yes,0.0,0.0,No,0.0
+26,male,United States,No,Yes,1.0,Never,More than 1000,0.0,1.0,,No,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.0,No,0.0
+27,male,United Kingdom,No,No,0.0,Never,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+22,male,United States,No,Yes,1.0,Sometimes,500-1000,0.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,No,1.0
+26,female,United States,No,Yes,1.0,Often,100-500,0.0,0.0,,No,No,0.0,Don't know,Somewhat difficult,0.5,0.0,No,No,0.0,0.5,No,0.0
+31,male,United States,No,Yes,1.0,Rarely,100-500,0.0,1.0,1.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+32,male,United Kingdom,No,No,0.0,Never,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,1.0,1.0,Yes,0.0
+28,male,United States,No,Yes,1.0,Often,100-500,1.0,1.0,1.0,No,No,,Don't know,Don't know,1.0,1.0,Some of them,Some of them,0.0,0.0,No,1.0
+28,other,United Kingdom,No,Yes,1.0,Rarely,100-500,0.0,1.0,0.0,Not sure,No,0.0,Yes,Somewhat difficult,1.0,1.0,Some of them,Some of them,1.0,0.0,No,1.0
+23,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,,Not sure,No,0.0,Don't know,Very easy,0.5,0.0,No,Some of them,0.0,1.0,Yes,0.0
+30,male,United Kingdom,No,No,0.0,Never,26-100,1.0,1.0,,Not sure,Don't know,,Don't know,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+36,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,No,No,1.0,Don't know,Somewhat difficult,1.0,0.0,Some of them,Yes,0.0,1.0,No,0.0
+21,male,United States,No,Yes,0.0,,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+30,male,Germany,No,No,0.0,Often,26-100,0.0,1.0,0.0,No,Don't know,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Some of them,0.5,1.0,Don't know,0.0
+25,male,United States,No,Yes,0.0,,500-1000,0.0,0.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+32,male,New Zealand,No,No,1.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.5,1.0,Don't know,0.0
+29,male,Canada,No,No,1.0,Sometimes,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+21,other,United Kingdom,No,No,1.0,Sometimes,26-100,0.0,1.0,0.0,Yes,Yes,0.0,Yes,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+27,male,New Zealand,No,Yes,1.0,Rarely,100-500,1.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,1.0,Don't know,0.0
+32,male,Canada,No,No,1.0,Often,More than 1000,0.0,0.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+34,male,Australia,No,No,0.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+33,male,United States,No,No,0.0,,26-100,0.0,1.0,,No,Don't know,,Don't know,Don't know,1.0,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+22,male,Netherlands,No,Yes,1.0,Sometimes,6-25,1.0,1.0,0.0,Not sure,No,,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,1.0,Yes,0.0
+24,male,United States,No,No,0.0,,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Yes,0.0
+65,male,United States,Yes,No,0.0,,6-25,1.0,0.0,0.0,No,No,0.0,Don't know,Very easy,0.5,0.0,Some of them,No,0.0,0.0,Yes,0.0
+27,male,United States,No,Yes,1.0,Sometimes,100-500,1.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Some of them,No,0.0,0.0,Yes,0.0
+33,male,Australia,No,No,0.0,Never,More than 1000,0.0,1.0,,Not sure,Don't know,,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,1.0,Yes,0.0
+36,male,United States,No,No,1.0,Rarely,26-100,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+40,male,Canada,No,No,0.0,Never,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Some of them,Some of them,0.0,0.0,No,0.0
+28,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,0.0,Yes,Somewhat difficult,0.5,0.0,Some of them,No,0.0,0.5,No,0.0
+39,male,United States,No,No,1.0,Sometimes,500-1000,0.0,1.0,1.0,Not sure,Yes,,Yes,Don't know,1.0,0.5,Yes,Yes,0.0,0.5,Don't know,0.0
+32,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,No,No,1.0,Don't know,Somewhat easy,0.0,0.0,Yes,Some of them,0.5,1.0,Don't know,0.0
+31,male,United States,No,Yes,0.0,Sometimes,More than 1000,0.0,1.0,1.0,Not sure,Don't know,,Don't know,Somewhat easy,0.5,0.0,No,Some of them,0.0,1.0,No,0.0
+38,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+23,male,United States,No,Yes,1.0,Rarely,1-5,0.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+42,male,United States,No,No,1.0,Often,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.5,Yes,Yes,0.5,0.5,Don't know,0.0
+27,male,United States,No,No,0.0,Sometimes,500-1000,0.0,1.0,,Not sure,Don't know,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+26,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Somewhat difficult,0.0,0.0,Yes,Yes,0.0,0.0,No,1.0
+50,male,United States,No,No,0.0,Never,26-100,1.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.0,0.0,No,No,0.0,0.5,No,0.0
+37,male,United States,No,Yes,0.0,Never,26-100,0.0,1.0,,No,No,,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+23,male,United States,No,No,0.0,,26-100,0.0,1.0,,No,Don't know,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+33,male,United States,No,Yes,0.0,Sometimes,6-25,1.0,1.0,,Not sure,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+29,male,Canada,Yes,No,0.0,Never,26-100,1.0,1.0,1.0,Yes,No,0.0,Yes,Very difficult,1.0,0.0,Some of them,No,0.0,1.0,No,0.0
+34,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,0.0,1.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+41,male,United States,No,Yes,1.0,Often,More than 1000,0.0,1.0,1.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,1.0
+50,male,United States,No,Yes,0.0,,100-500,1.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+29,male,Canada,No,No,1.0,Never,More than 1000,0.0,0.0,1.0,Not sure,Yes,1.0,Yes,Somewhat difficult,0.5,0.0,Some of them,No,0.0,0.5,Don't know,1.0
+35,male,United States,No,No,0.0,Never,6-25,0.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+27,male,Singapore,No,No,0.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,Yes,Don't know,1.0,0.0,Some of them,Yes,0.0,0.0,No,0.0
+40,male,United States,No,No,0.0,Never,26-100,0.0,0.0,,Not sure,No,0.0,Don't know,Somewhat easy,0.5,0.5,Yes,Yes,0.5,0.5,Don't know,0.0
+27,male,Australia,No,No,1.0,Often,100-500,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,No,1.0
+29,female,United States,No,No,0.0,Never,26-100,0.0,1.0,1.0,Yes,Yes,0.0,Yes,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,1.0
+31,male,United States,No,Yes,1.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+43,male,United States,No,No,1.0,Sometimes,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+34,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,1.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,1.0,Don't know,1.0
+29,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,,No,No,0.0,No,Somewhat difficult,1.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+19,male,Canada,No,Yes,1.0,Sometimes,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.5,Don't know,0.0
+41,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Not sure,Yes,1.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,No,0.0
+29,male,United States,No,Yes,0.0,Never,100-500,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+23,male,United States,No,No,0.0,Rarely,100-500,0.0,1.0,1.0,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+24,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Not sure,No,0.0,Don't know,Somewhat difficult,1.0,0.5,No,No,0.0,0.0,No,1.0
+31,male,United States,No,No,0.0,,26-100,1.0,1.0,,No,No,,Don't know,Don't know,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+43,male,United States,No,No,0.0,,500-1000,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+31,male,United States,No,Yes,1.0,Rarely,100-500,0.0,1.0,0.0,No,No,,Don't know,Somewhat difficult,1.0,1.0,Some of them,No,0.0,0.0,No,1.0
+29,male,United States,No,Yes,0.0,Often,100-500,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+35,male,United States,Yes,Yes,0.0,,6-25,1.0,1.0,0.0,No,Yes,1.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+33,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,0.0,1.0,Not sure,No,0.0,Yes,Somewhat difficult,1.0,1.0,No,No,0.0,0.0,No,0.0
+30,male,United States,Yes,Yes,1.0,Often,1-5,1.0,0.0,0.0,Yes,No,1.0,Yes,Somewhat difficult,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+27,male,United States,No,No,0.0,,More than 1000,0.0,1.0,1.0,Not sure,Don't know,,Yes,Don't know,0.5,0.5,No,No,0.0,0.5,No,0.0
+32,male,United States,No,No,0.0,Sometimes,100-500,0.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,No,0.0
+50,male,United States,No,No,0.0,Sometimes,1-5,1.0,1.0,,No,No,,Don't know,Don't know,1.0,0.5,Some of them,Some of them,0.0,0.5,Don't know,0.0
+24,male,United States,No,No,0.0,Never,26-100,0.0,0.0,,Not sure,No,0.0,Don't know,Don't know,0.5,1.0,Some of them,No,0.0,0.5,No,0.0
+27,male,United States,No,No,0.0,,26-100,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+27,male,Australia,No,No,0.0,Never,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+32,male,United States,No,No,1.0,Sometimes,6-25,0.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+42,male,United States,Yes,No,0.0,Rarely,6-25,1.0,0.0,0.0,Yes,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+37,male,United States,No,No,0.0,Often,More than 1000,0.0,0.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,No,0.0
+30,male,Singapore,No,No,0.0,Sometimes,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,No,0.0,1.0,No,1.0
+29,male,United States,No,No,0.0,Rarely,More than 1000,0.0,1.0,1.0,No,No,0.0,Don't know,Very easy,1.0,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+30,male,United States,Yes,No,1.0,Often,6-25,1.0,1.0,0.0,Not sure,No,1.0,Don't know,Somewhat difficult,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+35,male,United States,No,No,0.0,Never,26-100,0.0,1.0,1.0,No,Yes,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.5,0.5,Yes,0.0
+35,male,United States,No,Yes,1.0,Rarely,100-500,1.0,0.0,1.0,Yes,No,0.0,Yes,Very difficult,1.0,0.0,Some of them,No,0.0,0.5,No,0.0
+38,male,Netherlands,No,Yes,0.0,Often,26-100,1.0,1.0,0.0,Not sure,No,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.5,0.5,Don't know,0.0
+22,male,United Kingdom,No,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,1.0,Yes,0.0
+24,male,Germany,No,Yes,0.0,Sometimes,100-500,0.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+22,male,Netherlands,Yes,No,0.0,Never,1-5,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.5,Some of them,Yes,0.5,1.0,No,1.0
+31,male,United States,No,No,1.0,Often,26-100,1.0,1.0,1.0,Yes,No,0.0,Don't know,Very easy,0.5,0.0,Some of them,Some of them,0.0,1.0,Don't know,0.0
+23,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,1.0,0.5,No,No,0.0,0.0,Don't know,0.0
+31,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+28,male,United States,No,Yes,1.0,Rarely,500-1000,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Somewhat difficult,0.5,0.0,No,Some of them,0.0,0.0,No,0.0
+37,other,Canada,No,Yes,1.0,Sometimes,100-500,0.0,0.0,1.0,Yes,No,0.0,Don't know,Somewhat difficult,1.0,0.5,Some of them,Some of them,0.0,0.5,No,0.0
+34,male,United States,Yes,Yes,1.0,Sometimes,6-25,0.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.0,No,0.0
+32,male,Canada,No,No,0.0,Sometimes,26-100,1.0,1.0,0.0,Yes,No,0.0,Yes,Very difficult,1.0,0.5,Some of them,No,0.0,0.5,No,1.0
+28,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,1.0,Not sure,No,,Don't know,Don't know,1.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,1.0
+24,male,United Kingdom,No,No,1.0,Sometimes,100-500,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+56,male,United States,No,Yes,1.0,Rarely,6-25,0.0,1.0,1.0,Yes,No,0.0,Don't know,Don't know,1.0,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+31,male,Germany,No,No,0.0,Sometimes,6-25,1.0,1.0,0.0,No,No,0.0,No,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+34,male,United States,No,No,1.0,Sometimes,100-500,1.0,1.0,1.0,Yes,No,,Don't know,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+35,male,Germany,No,No,1.0,Rarely,100-500,0.0,0.0,,No,Yes,,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+28,male,Germany,No,No,0.0,Never,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,1.0,1.0,Don't know,0.0
+36,male,Poland,Yes,Yes,1.0,Often,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,1.0
+30,male,United Kingdom,No,No,1.0,Often,26-100,0.0,1.0,0.0,No,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+35,male,United States,Yes,No,0.0,,1-5,1.0,1.0,1.0,Not sure,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+49,male,Japan,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,Yes,Yes,0.0,Don't know,Somewhat difficult,1.0,1.0,No,No,0.0,0.0,No,1.0
+36,male,Germany,No,No,0.0,,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+35,male,Germany,No,No,0.0,,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+29,male,Australia,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,No,Somewhat difficult,1.0,0.0,Some of them,Some of them,0.0,0.0,No,1.0
+57,male,United States,No,No,0.0,Never,26-100,0.0,1.0,1.0,Yes,No,1.0,Yes,Somewhat difficult,1.0,0.5,No,No,0.0,0.5,Don't know,1.0
+31,male,Belgium,No,Yes,1.0,Rarely,100-500,0.0,0.0,1.0,No,No,0.0,No,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,1.0
+37,male,Ireland,Yes,No,0.0,Never,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+25,male,Ireland,No,Yes,1.0,Sometimes,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+30,male,Australia,No,No,0.0,Sometimes,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+26,female,Australia,No,Yes,0.0,Sometimes,100-500,0.0,0.0,0.0,Yes,Yes,1.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+22,male,Netherlands,No,No,0.0,Often,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,No,Some of them,0.0,1.0,Don't know,0.0
+39,male,United States,No,No,0.0,Rarely,More than 1000,1.0,0.0,,No,Yes,1.0,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+29,male,United Kingdom,No,Yes,1.0,Never,100-500,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.5,No,No,0.0,0.0,No,0.0
+54,male,United Kingdom,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,,Not sure,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,1.0,1.0,Don't know,1.0
+34,male,Australia,No,Yes,0.0,Never,500-1000,0.0,0.0,,No,Yes,1.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,Don't know,1.0
+32,male,United States,No,No,1.0,Never,500-1000,0.0,0.0,1.0,Not sure,Yes,1.0,Don't know,Very easy,0.5,0.0,No,No,0.0,0.0,Yes,0.0
+25,male,Nigeria,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Yes,Yes,0.0,1.0,Don't know,0.0
+29,male,Poland,No,No,0.0,Rarely,1-5,0.0,1.0,0.0,No,No,0.0,No,Somewhat difficult,0.0,0.5,Some of them,No,0.0,0.0,Yes,0.0
+32,male,Germany,Yes,No,0.0,Never,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+30,male,United Kingdom,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,,Yes,Don't know,0.5,0.0,Some of them,Yes,0.0,1.0,Yes,0.0
+31,male,Germany,No,No,0.0,,6-25,0.0,1.0,,No,No,,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+20,female,Switzerland,No,No,0.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.5,Yes,0.0
+27,male,United Kingdom,No,No,0.0,Never,1-5,0.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+32,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+26,male,Ireland,Yes,No,0.0,Never,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,0.5,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+30,male,Italy,No,No,0.0,Sometimes,More than 1000,0.0,0.0,,No,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+30,male,Ireland,No,No,1.0,Sometimes,26-100,1.0,1.0,0.0,No,Don't know,0.0,Don't know,Very difficult,0.5,0.5,Some of them,No,0.0,0.0,No,0.0
+22,male,India,Yes,No,0.0,,1-5,1.0,1.0,,No,Don't know,,Don't know,Very easy,0.5,0.5,Some of them,Some of them,0.5,0.5,Yes,1.0
+24,male,Ireland,No,No,0.0,,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,No,No,0.0,0.0,Don't know,0.0
+26,male,Netherlands,No,No,0.0,Never,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,No,No,0.0,0.0,Don't know,0.0
+43,male,France,No,No,0.0,,100-500,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+26,male,Russia,No,No,0.0,Never,26-100,0.0,1.0,0.0,Not sure,No,,Don't know,Somewhat difficult,0.0,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+23,male,United States,No,Yes,0.0,Sometimes,6-25,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+26,male,Canada,No,No,0.0,,100-500,1.0,1.0,1.0,Not sure,Don't know,1.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+26,male,Israel,No,Yes,0.0,Never,100-500,0.0,1.0,,No,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Yes,0.0
+35,male,Canada,No,Yes,0.0,Sometimes,26-100,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,No,0.0
+28,male,United States,No,No,1.0,Sometimes,26-100,1.0,0.0,,Not sure,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+22,male,India,No,No,0.0,,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Yes,0.5,0.5,Don't know,0.0
+29,male,United States,No,Yes,1.0,Rarely,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.0,Don't know,0.0
+29,male,Germany,Yes,No,0.0,,1-5,0.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,1.0,1.0,Yes,0.0
+45,male,United States,No,No,1.0,Often,1-5,1.0,1.0,1.0,Not sure,No,1.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+33,male,Bulgaria,No,No,1.0,Rarely,26-100,1.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,1.0
+38,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+19,male,United States,No,Yes,1.0,Often,26-100,0.0,0.0,,Not sure,No,0.0,Don't know,Somewhat difficult,0.5,0.5,No,No,0.0,0.5,No,0.0
+29,male,Canada,No,No,1.0,Rarely,More than 1000,1.0,0.0,1.0,Yes,Yes,,Yes,Somewhat easy,0.0,0.0,No,Yes,0.0,0.5,Don't know,0.0
+21,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+23,male,India,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,,Not sure,No,,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,Don't know,0.0
+33,male,United States,No,Yes,1.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+49,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Not sure,Yes,1.0,Yes,Somewhat easy,0.5,0.5,Some of them,Yes,0.0,0.0,Yes,0.0
+28,male,United States,No,No,0.0,,26-100,1.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+27,female,United Kingdom,No,No,1.0,Sometimes,6-25,1.0,1.0,,Not sure,Yes,,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+23,male,Canada,No,No,1.0,Sometimes,6-25,0.0,1.0,1.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+29,male,Netherlands,No,No,0.0,Never,1-5,1.0,1.0,0.0,No,No,0.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+30,male,Germany,No,No,0.0,,26-100,0.0,1.0,,No,No,,Yes,Somewhat easy,0.0,0.0,Some of them,No,0.5,0.5,Don't know,0.0
+28,male,Canada,No,No,0.0,,More than 1000,0.0,1.0,1.0,Not sure,Don't know,,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+32,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,1.0,No,0.0
+32,male,United Kingdom,No,No,1.0,Sometimes,26-100,0.0,0.0,1.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,No,Yes,0.0,0.0,Yes,0.0
+37,male,France,No,No,0.0,,100-500,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.5,No,0.0
+39,female,United States,No,No,0.0,,More than 1000,1.0,0.0,0.0,Yes,No,0.0,Don't know,Very difficult,1.0,0.5,No,No,0.0,0.5,No,0.0
+31,male,France,No,No,0.0,,500-1000,0.0,1.0,,No,No,,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.0,Yes,0.0
+29,male,United States,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,,Don't know,Somewhat difficult,0.5,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+30,male,United States,No,No,0.0,,100-500,0.0,0.0,1.0,No,No,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+33,male,United States,Yes,Yes,1.0,Rarely,1-5,1.0,1.0,0.0,Yes,Yes,1.0,No,Very difficult,0.0,0.0,Yes,Yes,0.0,0.0,Yes,1.0
+37,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Yes,Don't know,,Yes,Don't know,0.5,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+23,male,United States,No,No,1.0,Often,26-100,0.0,0.0,1.0,Yes,Yes,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+43,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,0.0,1.0,Not sure,No,1.0,Don't know,Somewhat easy,1.0,0.0,No,No,0.0,0.0,No,0.0
+32,male,United Kingdom,No,No,1.0,Rarely,100-500,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Yes,Yes,0.0,0.5,No,1.0
+26,male,United States,No,No,0.0,Never,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,1.0,1.0,Some of them,No,0.0,0.0,No,0.0
+32,male,United States,Yes,No,1.0,Sometimes,1-5,1.0,1.0,,Not sure,Don't know,,Don't know,Very easy,0.0,0.0,Yes,Yes,1.0,1.0,Don't know,0.0
+37,female,United States,No,No,0.0,,26-100,1.0,1.0,,Not sure,No,,Don't know,Don't know,1.0,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+29,male,United States,No,No,1.0,Often,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+34,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Yes,0.0,0.5,Don't know,0.0
+27,male,France,No,No,0.0,,6-25,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+30,male,United States,No,Yes,0.0,Never,100-500,0.0,1.0,,No,No,,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+29,male,United States,No,No,0.0,Never,6-25,0.0,1.0,1.0,Yes,No,1.0,Yes,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,No,0.0
+32,male,United States,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,1.0,Yes,Don't know,,Don't know,Very difficult,1.0,0.5,Some of them,No,0.0,0.0,No,0.0
+25,male,Germany,No,No,0.0,,500-1000,0.0,1.0,1.0,Yes,Don't know,1.0,Yes,Somewhat easy,0.5,0.5,Some of them,Yes,1.0,1.0,Yes,0.0
+37,male,United States,Yes,No,0.0,,6-25,1.0,1.0,1.0,Yes,Yes,0.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+29,male,Netherlands,No,Yes,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+27,male,United States,No,No,0.0,,26-100,0.0,1.0,1.0,Not sure,No,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+33,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+30,male,Canada,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,,No,No,0.0,No,Very difficult,1.0,0.0,Some of them,No,0.0,1.0,No,1.0
+29,male,Canada,No,No,0.0,,1-5,1.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat difficult,0.5,0.5,Yes,Yes,0.0,0.5,Don't know,0.0
+25,male,United States,No,Yes,1.0,Never,6-25,1.0,1.0,,No,Yes,,Don't know,Don't know,1.0,0.0,Some of them,Yes,0.0,0.0,No,0.0
+33,male,United States,No,Yes,1.0,Sometimes,1-5,0.0,0.0,0.0,Yes,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+31,male,South Africa,No,No,0.0,Never,100-500,1.0,1.0,0.0,No,No,0.0,No,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+21,male,Germany,No,No,0.0,Rarely,6-25,1.0,1.0,,No,No,0.0,Don't know,Very easy,0.5,0.5,Some of them,Some of them,0.0,0.5,No,0.0
+30,male,Switzerland,No,Yes,1.0,Sometimes,26-100,0.0,1.0,,No,No,0.0,No,Very difficult,1.0,1.0,No,No,0.0,0.0,No,0.0
+29,male,United States,No,No,0.0,,More than 1000,0.0,0.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,No,0.0
+43,male,Croatia,Yes,No,1.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,Yes,Very difficult,1.0,0.0,Yes,No,0.0,0.5,No,1.0
+37,male,United Kingdom,No,No,1.0,Often,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.0,Yes,Yes,0.5,1.0,No,0.0
+24,male,France,No,No,0.0,,26-100,0.0,1.0,0.0,No,Yes,0.0,Don't know,Don't know,0.5,0.0,Yes,Some of them,0.0,0.0,Don't know,0.0
+29,male,United States,No,No,0.0,,6-25,1.0,1.0,,Not sure,No,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+31,male,United States,No,No,0.0,,26-100,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+33,male,United Kingdom,Yes,No,0.0,Never,100-500,0.0,0.0,0.0,Not sure,No,0.0,Don't know,Very easy,0.0,0.0,Yes,Some of them,0.0,1.0,No,0.0
+43,male,United States,No,No,0.0,,More than 1000,0.0,0.0,1.0,Yes,Don't know,1.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+33,male,United Kingdom,No,No,1.0,Sometimes,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+27,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,1.0,Yes,Don't know,0.5,0.0,Yes,Some of them,0.0,1.0,Yes,0.0
+36,male,United States,No,Yes,1.0,Sometimes,More than 1000,1.0,0.0,,No,Don't know,,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+37,male,Australia,No,Yes,1.0,Sometimes,26-100,0.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,1.0
+32,male,Belgium,No,No,0.0,,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,1.0,0.5,No,No,0.0,0.0,No,0.0
+39,male,United Kingdom,No,No,1.0,Sometimes,100-500,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.0,0.0,No,Some of them,0.0,1.0,Yes,0.0
+31,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,,Don't know,Somewhat easy,0.5,0.0,Some of them,Yes,0.5,1.0,Don't know,0.0
+36,male,United States,No,No,1.0,Sometimes,100-500,1.0,1.0,1.0,Yes,No,0.0,Don't know,Very difficult,0.5,0.5,Some of them,Some of them,0.5,0.5,Don't know,0.0
+30,male,United States,Yes,No,1.0,Sometimes,26-100,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,1.0,Don't know,0.0
+28,male,Canada,No,No,0.0,,6-25,0.0,1.0,1.0,Not sure,No,,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+32,male,Italy,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,No,Somewhat difficult,0.5,0.0,Some of them,No,0.5,0.5,No,0.0
+35,male,United States,No,Yes,1.0,Rarely,6-25,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+19,male,Canada,No,No,1.0,Sometimes,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Some of them,Yes,0.0,1.0,Don't know,0.0
+33,male,Norway,No,Yes,0.0,,26-100,0.0,1.0,1.0,Yes,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+42,male,Germany,No,No,0.0,,More than 1000,1.0,1.0,,Not sure,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,No,0.0,0.5,Yes,0.0
+37,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+40,male,Thailand,Yes,No,0.0,Never,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+36,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+29,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,0.0,,No,No,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+38,female,United States,No,Yes,1.0,Sometimes,26-100,0.0,0.0,1.0,Not sure,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+26,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,No,Yes,,Don't know,Somewhat difficult,1.0,0.5,No,No,0.0,0.5,No,0.0
+34,male,Germany,No,No,0.0,Rarely,26-100,0.0,1.0,0.0,No,No,0.0,Yes,Somewhat easy,0.5,0.5,No,Some of them,0.5,0.5,Yes,0.0
+21,male,United States,No,No,1.0,Often,More than 1000,0.0,0.0,0.0,Yes,No,0.0,No,Don't know,1.0,0.0,Some of them,Some of them,0.0,1.0,No,1.0
+31,male,Canada,Yes,Yes,0.0,Sometimes,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,No,No,0.0,0.0,Yes,0.0
+37,male,United States,No,Yes,1.0,Rarely,26-100,0.0,0.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.5,0.5,Yes,Some of them,0.0,0.5,Yes,0.0
+37,male,Ireland,No,Yes,1.0,Sometimes,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+38,male,Ireland,No,Yes,1.0,Sometimes,1-5,0.0,1.0,0.0,No,No,0.0,No,Very difficult,1.0,1.0,No,No,0.0,0.0,No,0.0
+27,male,United States,No,No,1.0,Sometimes,100-500,0.0,1.0,,Not sure,Yes,,Don't know,Somewhat easy,1.0,0.0,Some of them,No,0.0,0.5,No,0.0
+39,male,Netherlands,Yes,No,0.0,,6-25,0.0,1.0,0.0,No,Yes,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+33,male,United States,Yes,Yes,1.0,Sometimes,1-5,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,1.0,Some of them,No,0.0,0.0,No,0.0
+27,male,United Kingdom,No,No,0.0,Never,26-100,0.0,1.0,,Not sure,No,,Don't know,Somewhat easy,0.0,0.0,Some of them,No,1.0,1.0,Don't know,0.0
+36,female,United States,No,No,1.0,Never,6-25,1.0,1.0,1.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,No,0.0
+28,male,United Kingdom,No,No,0.0,Never,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,1.0,Don't know,0.0
+39,male,United Kingdom,No,No,1.0,Sometimes,500-1000,0.0,0.0,,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+33,male,United States,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.5,0.5,Yes,Yes,0.0,0.0,Yes,0.0
+32,male,United Kingdom,No,No,0.0,,More than 1000,0.0,0.0,,Not sure,No,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,1.0,Don't know,0.0
+28,male,United Kingdom,No,No,0.0,,More than 1000,0.0,0.0,,Not sure,No,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,1.0,1.0,No,0.0
+37,male,United Kingdom,No,Yes,1.0,Rarely,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Somewhat easy,1.0,0.0,Some of them,Yes,0.0,0.5,No,1.0
+39,male,Canada,No,No,1.0,Sometimes,100-500,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Very easy,1.0,0.0,Some of them,Yes,0.0,0.5,No,1.0
+43,male,United States,No,No,0.0,Sometimes,6-25,1.0,1.0,,No,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.5,No,0.0
+32,other,United Kingdom,No,No,1.0,Sometimes,More than 1000,0.0,0.0,,No,Yes,1.0,Don't know,Don't know,0.0,0.0,Yes,Some of them,1.0,1.0,Yes,1.0
+27,male,United States,No,No,0.0,,More than 1000,0.0,1.0,,Not sure,No,1.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+31,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+43,male,United Kingdom,No,No,1.0,Never,26-100,0.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Yes,Yes,1.0,1.0,Don't know,0.0
+33,male,United States,No,No,1.0,Sometimes,6-25,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat difficult,0.0,0.0,Yes,Yes,1.0,1.0,Don't know,0.0
+34,male,United Kingdom,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,,Not sure,Don't know,,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+33,male,United States,Yes,No,0.0,,1-5,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+25,male,United States,No,No,0.0,,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+25,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,No,1.0
+32,male,United Kingdom,Yes,Yes,0.0,,1-5,0.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,No,Yes,0.0,0.5,No,0.0
+25,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,Don't know,,Yes,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+37,male,Netherlands,No,No,0.0,,100-500,1.0,0.0,,No,Don't know,,Don't know,Somewhat easy,0.5,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+39,male,Switzerland,No,No,1.0,Never,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.5,Yes,0.0
+29,male,United Kingdom,No,No,0.0,Rarely,100-500,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,1.0
+33,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Don't know,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+37,male,United States,No,No,1.0,Often,6-25,1.0,1.0,,Not sure,No,0.0,Yes,Somewhat difficult,1.0,0.0,Some of them,Some of them,0.0,1.0,No,1.0
+35,male,United States,No,No,1.0,Sometimes,100-500,0.0,0.0,1.0,No,No,0.0,Yes,Very difficult,1.0,0.5,No,Some of them,0.0,1.0,No,1.0
+22,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Very difficult,1.0,0.5,Some of them,Some of them,0.0,0.5,No,1.0
+38,male,United States,No,No,0.0,Never,26-100,0.0,1.0,1.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,0.5,No,1.0
+32,male,United States,No,Yes,1.0,Often,100-500,0.0,1.0,1.0,No,No,,Don't know,Don't know,1.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+28,male,Brazil,No,No,0.0,,26-100,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.5,1.0,No,1.0
+27,male,Switzerland,No,Yes,0.0,,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,1.0,No,0.0
+35,male,United States,No,No,1.0,Sometimes,100-500,1.0,1.0,,No,Don't know,,Don't know,Very easy,0.5,0.0,Some of them,No,0.0,0.5,Yes,0.0
+29,male,United States,No,No,0.0,Never,100-500,0.0,0.0,1.0,Yes,Yes,0.0,Yes,Very easy,1.0,0.5,Yes,Yes,0.0,0.5,Don't know,0.0
+23,male,United States,No,Yes,1.0,Sometimes,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+39,male,United States,No,No,0.0,,26-100,1.0,1.0,1.0,No,No,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,Don't know,0.0
+30,male,United States,No,No,0.0,,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,No,0.0,0.0,Yes,0.0
+32,male,United Kingdom,No,No,0.0,,26-100,0.0,1.0,,Not sure,No,,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.5,0.5,Don't know,0.0
+28,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat difficult,1.0,0.5,Some of them,Some of them,0.0,0.0,No,1.0
+40,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,1.0
+36,female,United States,No,Yes,0.0,,6-25,0.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,No,Some of them,0.0,0.5,Yes,0.0
+27,male,United States,No,No,0.0,,26-100,1.0,1.0,,Not sure,No,,Don't know,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+41,male,United States,No,Yes,0.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,1.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+29,male,United Kingdom,No,No,0.0,Never,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+29,male,United Kingdom,No,No,1.0,Sometimes,100-500,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+35,male,United States,No,No,1.0,Often,1-5,0.0,0.0,0.0,No,No,0.0,Yes,Very difficult,1.0,0.0,Some of them,Some of them,0.0,1.0,No,1.0
+28,male,United States,No,No,1.0,Never,6-25,1.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+36,female,United Kingdom,Yes,No,0.0,Sometimes,1-5,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+39,male,United States,No,No,0.0,Sometimes,26-100,0.0,1.0,,Not sure,No,,Don't know,Don't know,1.0,0.0,No,No,0.0,1.0,Don't know,0.0
+39,male,United States,No,Yes,1.0,Sometimes,500-1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very difficult,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+44,male,United States,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,Yes,No,0.0,No,Very easy,1.0,1.0,Some of them,No,0.0,0.0,Yes,0.0
+26,other,Germany,Yes,No,1.0,Sometimes,6-25,1.0,1.0,0.0,Not sure,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Some of them,0.5,0.5,Yes,0.0
+35,male,Denmark,Yes,Yes,1.0,Often,1-5,0.0,1.0,0.0,Yes,Yes,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.5,1.0,Yes,0.0
+40,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,0.0,1.0,Not sure,Yes,,Don't know,Don't know,1.0,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+35,male,Denmark,Yes,Yes,1.0,Often,1-5,0.0,1.0,0.0,Yes,Yes,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.5,1.0,Yes,0.0
+38,male,United States,No,No,0.0,Never,More than 1000,1.0,1.0,0.0,Yes,No,0.0,No,Very difficult,1.0,1.0,No,No,0.0,0.0,Don't know,0.0
+34,male,United States,No,No,0.0,,More than 1000,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+43,male,United States,No,No,0.0,,More than 1000,0.0,1.0,1.0,No,Yes,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+48,male,United States,No,Yes,0.0,Often,26-100,0.0,1.0,,No,No,0.0,No,Very difficult,1.0,1.0,No,Some of them,0.0,0.0,No,1.0
+20,male,United States,No,No,0.0,Never,26-100,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+40,male,United States,Yes,No,0.0,Sometimes,1-5,1.0,1.0,,Not sure,No,0.0,Don't know,Somewhat easy,1.0,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+29,male,United Kingdom,No,No,1.0,Rarely,6-25,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+35,male,United States,No,Yes,1.0,Sometimes,1-5,0.0,0.0,0.0,Yes,No,0.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+29,male,United States,No,Yes,0.0,Sometimes,More than 1000,1.0,0.0,1.0,Yes,No,1.0,Yes,Very easy,0.5,0.0,Some of them,No,0.0,0.0,Yes,0.0
+40,male,United States,No,No,0.0,Never,100-500,0.0,1.0,1.0,Not sure,No,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+29,male,Sweden,No,No,1.0,Rarely,6-25,0.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+29,female,United States,No,Yes,1.0,Rarely,100-500,0.0,1.0,1.0,Not sure,Don't know,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+34,male,United States,No,No,1.0,Sometimes,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,1.0,Don't know,0.0
+44,male,United Kingdom,No,Yes,1.0,Sometimes,500-1000,0.0,0.0,,No,No,0.0,Don't know,Somewhat difficult,0.5,0.0,Some of them,Yes,0.0,0.5,No,1.0
+24,male,United States,No,Yes,1.0,Often,6-25,0.0,1.0,1.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,1.0,No,1.0
+47,female,United States,No,No,0.0,,100-500,1.0,1.0,,No,No,,Don't know,Very difficult,1.0,1.0,No,No,0.0,0.0,No,0.0
+43,male,United Kingdom,No,Yes,0.0,,More than 1000,0.0,0.0,,No,No,0.0,Don't know,Very easy,0.5,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+36,male,United States,No,No,0.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat difficult,0.0,0.0,Some of them,Yes,0.0,0.0,No,0.0
+43,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,0.0,,No,No,,Don't know,Very difficult,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+36,male,United Kingdom,Yes,No,0.0,Sometimes,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,1.0
+31,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Yes,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+35,male,United States,No,No,0.0,Sometimes,More than 1000,0.0,1.0,,Not sure,Yes,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+33,male,United States,No,Yes,0.0,,26-100,0.0,0.0,1.0,No,No,0.0,Yes,Somewhat difficult,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+37,male,Italy,No,No,0.0,Sometimes,26-100,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,1.0,1.0,Some of them,No,0.0,0.0,No,0.0
+34,male,United States,No,No,1.0,Sometimes,100-500,0.0,1.0,,No,Yes,,Yes,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+36,male,Netherlands,Yes,No,1.0,Sometimes,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.0,0.0,Yes,No,0.0,0.0,Yes,0.0
+40,male,United States,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+40,male,United States,No,No,0.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+42,male,United States,No,No,1.0,Sometimes,1-5,1.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+23,male,United States,No,Yes,0.0,,26-100,1.0,1.0,1.0,Yes,No,,Yes,Don't know,0.5,0.0,No,Some of them,0.0,0.0,Don't know,0.0
+21,male,United Kingdom,No,Yes,0.0,Never,6-25,0.0,0.0,0.0,No,No,0.0,Yes,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+26,male,Canada,No,No,0.0,Sometimes,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,1.0,0.5,Some of them,Some of them,0.0,0.5,Don't know,0.0
+31,male,United States,No,Yes,0.0,,6-25,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+25,male,United States,No,Yes,0.0,,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,1.0,Yes,0.0
+51,male,United States,No,No,0.0,Never,More than 1000,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+24,male,United States,No,No,0.0,,6-25,0.0,1.0,,Not sure,Don't know,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+33,male,United States,No,No,0.0,,100-500,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,No,0.0
+32,male,United Kingdom,No,Yes,1.0,Rarely,6-25,0.0,0.0,0.0,No,No,0.0,No,Don't know,1.0,0.5,Some of them,No,0.0,0.0,No,0.0
+32,male,United Kingdom,No,Yes,1.0,Rarely,6-25,0.0,0.0,0.0,No,No,0.0,No,Don't know,1.0,0.5,Some of them,No,0.0,0.0,No,0.0
+26,male,United Kingdom,Yes,No,1.0,Rarely,1-5,1.0,1.0,0.0,Not sure,Don't know,,Don't know,Somewhat difficult,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+23,male,United States,No,No,0.0,Never,100-500,0.0,0.0,,No,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+33,male,United States,No,Yes,1.0,Often,6-25,1.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,1.0,0.0,Some of them,Yes,0.0,0.5,No,0.0
+46,male,United States,No,No,1.0,Rarely,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,1.0,0.5,No,No,0.0,0.5,Yes,0.0
+34,male,United Kingdom,No,No,0.0,,6-25,1.0,1.0,0.0,No,No,0.0,No,Somewhat difficult,1.0,0.5,No,No,0.0,1.0,No,1.0
+35,male,United States,No,Yes,1.0,Sometimes,6-25,0.0,1.0,1.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+39,male,United States,No,No,0.0,,1-5,1.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,0.5,0.5,Some of them,Yes,0.5,0.5,No,0.0
+32,male,Germany,Yes,No,0.0,Sometimes,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Some of them,0.5,0.5,No,0.0
+43,male,Mexico,Yes,No,0.0,,More than 1000,1.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+56,male,United States,No,No,1.0,Rarely,More than 1000,1.0,1.0,1.0,Yes,Don't know,1.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,1.0,1.0,Yes,0.0
+32,male,United Kingdom,No,Yes,1.0,Sometimes,100-500,0.0,1.0,,No,No,0.0,Don't know,Somewhat difficult,0.5,0.0,Some of them,Some of them,0.0,1.0,Don't know,1.0
+41,male,United Kingdom,No,No,0.0,,26-100,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.5,0.5,Some of them,Some of them,0.0,1.0,No,1.0
+39,male,United States,No,No,0.0,,More than 1000,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+37,male,United States,No,Yes,0.0,,500-1000,0.0,0.0,1.0,Yes,No,0.0,Yes,Very easy,0.5,0.0,No,No,0.0,0.0,No,0.0
+30,male,United States,Yes,Yes,1.0,Sometimes,6-25,1.0,1.0,,Not sure,No,,Don't know,Very difficult,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+31,male,United States,No,No,0.0,,26-100,0.0,1.0,1.0,No,Yes,0.0,Yes,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+29,male,United States,No,No,0.0,,More than 1000,0.0,0.0,,Not sure,No,,Don't know,Don't know,0.5,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+23,male,United Kingdom,No,Yes,0.0,Never,More than 1000,0.0,0.0,0.0,No,No,1.0,Don't know,Somewhat easy,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+31,male,United States,No,No,1.0,Never,26-100,0.0,1.0,1.0,Yes,No,,Yes,Very easy,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+29,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+30,male,United States,No,No,0.0,Never,26-100,1.0,1.0,1.0,Yes,Don't know,,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+37,male,United States,No,No,0.0,Never,500-1000,1.0,1.0,1.0,No,Yes,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Yes,1.0
+36,male,United States,Yes,No,0.0,Never,1-5,0.0,1.0,1.0,No,No,,Don't know,Somewhat difficult,0.0,0.0,Some of them,Yes,1.0,1.0,Yes,0.0
+35,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.5,No,0.0
+41,male,United States,No,Yes,0.0,Never,500-1000,1.0,0.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+31,male,United Kingdom,No,No,1.0,Rarely,6-25,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+38,male,United Kingdom,No,Yes,0.0,,500-1000,0.0,0.0,1.0,Yes,Yes,1.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,No,0.0
+26,male,India,Yes,No,0.0,,100-500,0.0,1.0,0.0,No,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+39,male,United States,No,Yes,0.0,Sometimes,More than 1000,0.0,1.0,1.0,No,Yes,1.0,Don't know,Don't know,0.5,0.5,Some of them,Yes,0.5,0.5,Don't know,1.0
+42,male,United States,Yes,Yes,0.0,Sometimes,6-25,1.0,0.0,1.0,Not sure,Don't know,1.0,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.5,Don't know,0.0
+32,male,United States,Yes,Yes,1.0,Rarely,1-5,1.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,1.0,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+29,male,United States,No,Yes,0.0,,100-500,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+30,male,United States,No,Yes,0.0,Never,100-500,0.0,1.0,1.0,No,Don't know,1.0,Don't know,Very difficult,1.0,1.0,Some of them,No,0.5,0.5,No,0.0
+40,male,United States,No,Yes,1.0,Often,500-1000,1.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,1.0,Don't know,0.0
+51,male,United States,No,No,0.0,,100-500,0.0,0.0,,Not sure,No,,Don't know,Somewhat difficult,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+33,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+34,male,Germany,Yes,No,1.0,Sometimes,1-5,1.0,1.0,0.0,Not sure,No,0.0,Yes,Somewhat difficult,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+50,male,United States,Yes,No,0.0,Never,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+24,male,United States,No,No,0.0,Sometimes,26-100,1.0,1.0,,No,No,,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,No,0.0
+25,male,United States,No,Yes,1.0,Rarely,26-100,0.0,0.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,No,0.0
+43,male,United Kingdom,No,Yes,1.0,Rarely,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,1.0,1.0,Some of them,No,0.0,0.0,No,1.0
+25,female,United States,Yes,No,1.0,Often,1-5,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.5,0.5,Some of them,Some of them,0.0,0.0,Yes,1.0
+24,male,United Kingdom,Yes,No,0.0,,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,No,No,0.0,0.5,Yes,0.0
+51,male,United States,Yes,No,0.0,Never,1-5,0.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat difficult,0.0,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+49,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,1.0,Yes,Somewhat difficult,1.0,0.5,No,No,0.0,0.5,No,1.0
+30,male,United States,No,No,0.0,,More than 1000,1.0,1.0,1.0,No,Yes,1.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,Don't know,0.0
+25,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,0.0,Don't know,Don't know,1.0,1.0,No,No,0.0,0.0,No,0.0
+36,male,United States,No,No,1.0,Rarely,500-1000,1.0,1.0,1.0,Yes,Don't know,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+48,male,United States,No,No,1.0,Never,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.5,0.5,Yes,Yes,0.0,0.5,Yes,1.0
+48,male,Australia,No,No,1.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,1.0,0.0,Some of them,No,0.0,0.5,No,1.0
+53,male,United States,No,No,1.0,Rarely,6-25,1.0,1.0,1.0,Yes,No,1.0,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+24,male,United Kingdom,No,Yes,1.0,Often,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+33,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,,Yes,No,1.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+25,male,Canada,No,Yes,1.0,Sometimes,6-25,0.0,1.0,1.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+30,male,United Kingdom,No,No,1.0,Sometimes,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,1.0,0.5,Some of them,No,0.0,0.5,No,0.0
+30,male,United States,Yes,No,0.0,Never,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.5,0.5,Some of them,Some of them,0.5,0.5,Don't know,0.0
+34,male,United Kingdom,Yes,No,1.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,Yes,Somewhat difficult,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+31,male,United States,No,No,0.0,,More than 1000,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,1.0,Yes,0.0
+22,female,United States,No,Yes,1.0,Often,More than 1000,0.0,1.0,,Not sure,No,,Don't know,Don't know,1.0,1.0,No,No,0.0,0.0,Don't know,0.0
+28,male,United States,No,Yes,0.0,Sometimes,6-25,0.0,1.0,,Not sure,No,,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,1.0,Don't know,0.0
+35,male,United States,No,Yes,1.0,Rarely,26-100,0.0,0.0,1.0,Yes,No,1.0,Yes,Somewhat difficult,0.5,0.0,Some of them,Some of them,0.0,0.0,No,0.0
+28,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,0.0,1.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Yes,0.0
+42,male,New Zealand,No,No,1.0,Sometimes,More than 1000,0.0,0.0,0.0,Yes,Don't know,0.0,Yes,Somewhat difficult,1.0,0.5,Some of them,Some of them,0.0,1.0,No,1.0
+33,male,United States,No,Yes,0.0,,500-1000,0.0,1.0,1.0,No,Don't know,,Don't know,Very easy,0.0,0.0,Yes,Yes,1.0,1.0,Yes,0.0
+29,male,United States,No,No,0.0,Sometimes,More than 1000,0.0,1.0,1.0,No,Yes,0.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,Don't know,0.0
+43,male,United States,No,Yes,0.0,Sometimes,500-1000,0.0,0.0,1.0,Not sure,No,,Don't know,Don't know,0.5,0.0,No,Some of them,0.0,0.5,No,0.0
+29,male,United States,No,No,0.0,,26-100,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.5,0.5,Yes,0.0
+25,male,United States,No,No,0.0,,100-500,1.0,1.0,1.0,No,No,0.0,Yes,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+31,male,United States,No,Yes,0.0,Never,100-500,0.0,1.0,,No,Don't know,,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+35,male,United States,No,Yes,1.0,Sometimes,6-25,0.0,0.0,1.0,Not sure,Yes,1.0,Yes,Somewhat difficult,0.5,0.5,Some of them,Yes,0.0,0.5,Yes,0.0
+34,male,United States,No,No,0.0,Often,1-5,0.0,1.0,,No,No,1.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+43,male,United States,No,No,1.0,Sometimes,100-500,1.0,1.0,1.0,Yes,No,1.0,Yes,Very difficult,1.0,0.5,Some of them,No,0.0,0.5,No,1.0
+38,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,0.0,Not sure,No,0.0,Don't know,Very difficult,1.0,1.0,No,Some of them,0.0,0.5,No,0.0
+26,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,,Not sure,No,1.0,Yes,Very difficult,0.5,0.0,Some of them,Some of them,1.0,1.0,No,1.0
+38,male,United Kingdom,Yes,Yes,1.0,Rarely,1-5,1.0,0.0,0.0,No,No,0.0,Yes,Very difficult,0.5,0.0,No,No,0.0,0.0,No,0.0
+42,male,United States,No,No,1.0,Often,6-25,0.0,1.0,,No,No,,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+33,male,Netherlands,No,Yes,1.0,,6-25,0.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,Yes,1.0
+32,male,United States,No,No,1.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+44,male,United States,No,Yes,1.0,Sometimes,6-25,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat difficult,0.5,0.5,Some of them,Yes,0.0,0.5,No,0.0
+28,male,United States,No,Yes,1.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,No,0.0
+40,male,United States,No,Yes,1.0,Sometimes,More than 1000,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Very difficult,1.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,1.0
+31,female,United States,No,Yes,1.0,Sometimes,500-1000,0.0,1.0,1.0,Yes,No,,Yes,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+32,male,United States,No,Yes,0.0,Sometimes,100-500,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,1.0,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+28,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,,No,Don't know,,Don't know,Somewhat easy,0.5,0.0,Some of them,No,0.0,0.5,No,0.0
+39,male,United States,No,Yes,1.0,Often,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,1.0,0.0,Some of them,No,0.0,0.0,No,0.0
+45,male,United States,No,No,0.0,,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+43,male,United States,No,No,1.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.5,1.0,Yes,0.0
+35,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Don't know,1.0,Don't know,Very difficult,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+40,male,United States,No,Yes,1.0,Sometimes,6-25,0.0,1.0,1.0,Yes,Don't know,,Yes,Very easy,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+34,male,Netherlands,No,No,1.0,Rarely,26-100,0.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+24,male,United Kingdom,No,Yes,1.0,Often,26-100,0.0,0.0,,Yes,No,0.0,No,Somewhat easy,1.0,0.5,Some of them,Yes,0.0,0.5,No,1.0
+61,male,South Africa,Yes,No,1.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,1.0,0.5,Some of them,Yes,0.0,0.5,No,1.0
+36,male,United States,No,Yes,1.0,Rarely,6-25,0.0,1.0,,No,No,,Don't know,Don't know,1.0,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+38,male,United States,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Don't know,0.5,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+33,male,Germany,No,Yes,1.0,Often,26-100,0.0,1.0,,Not sure,Yes,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,1.0,1.0,Yes,0.0
+30,male,United States,No,Yes,0.0,Never,More than 1000,0.0,0.0,,No,No,,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,No,0.0
+34,male,Netherlands,Yes,Yes,1.0,Rarely,1-5,1.0,1.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Yes,Some of them,0.0,0.5,Yes,0.0
+26,male,United States,No,No,1.0,Rarely,More than 1000,0.0,1.0,1.0,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+33,male,United Kingdom,No,No,0.0,,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+32,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,,No,No,0.0,Don't know,Very easy,0.0,0.0,No,Yes,0.0,0.5,No,0.0
+25,male,Germany,Yes,No,0.0,Sometimes,6-25,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,1.0,1.0,Yes,0.0
+35,male,Germany,Yes,No,1.0,Sometimes,26-100,1.0,0.0,,No,No,0.0,Don't know,Somewhat difficult,1.0,0.5,Yes,No,0.0,0.5,Don't know,0.0
+24,male,United Kingdom,Yes,Yes,0.0,Often,1-5,1.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+55,male,United Kingdom,No,No,1.0,Often,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Don't know,Somewhat easy,1.0,0.5,No,Some of them,0.0,0.5,No,1.0
+33,male,United Kingdom,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,Yes,No,0.0,No,Very difficult,1.0,0.5,Some of them,Some of them,0.0,0.5,No,1.0
+26,male,United Kingdom,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.5,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+25,male,United Kingdom,No,No,0.0,Never,6-25,1.0,1.0,,Not sure,Don't know,,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+45,male,United Kingdom,No,Yes,0.0,Rarely,100-500,0.0,0.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+33,male,United Kingdom,Yes,No,1.0,Sometimes,1-5,1.0,1.0,0.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+43,male,United States,No,No,0.0,Sometimes,More than 1000,1.0,1.0,0.0,Not sure,No,0.0,Don't know,Very difficult,1.0,0.5,No,No,0.0,0.5,No,1.0
+30,male,United Kingdom,Yes,No,1.0,Sometimes,6-25,0.0,1.0,0.0,Yes,No,0.0,No,Very difficult,1.0,1.0,No,No,0.0,0.0,Yes,1.0
+40,male,United States,No,Yes,1.0,Rarely,6-25,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+49,male,United States,No,Yes,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+29,male,Germany,No,No,0.0,,6-25,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,1.0,Don't know,0.0
+26,male,Germany,No,No,0.0,,500-1000,0.0,1.0,,No,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+38,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.5,No,1.0
+27,male,France,No,Yes,0.0,,500-1000,0.0,0.0,1.0,Yes,Don't know,0.0,Yes,Somewhat easy,0.5,0.5,No,Some of them,0.0,0.5,Don't know,1.0
+26,male,Belgium,No,No,0.0,Never,6-25,0.0,1.0,1.0,No,No,0.0,No,Somewhat easy,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+28,male,United Kingdom,No,Yes,1.0,Often,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.5,Yes,Yes,0.0,0.0,No,0.0
+40,male,United States,No,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Yes,0.0,0.5,No,0.0
+37,male,Canada,Yes,Yes,1.0,Rarely,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,1.0,0.5,Some of them,Some of them,0.5,0.5,Don't know,1.0
+34,male,United Kingdom,No,Yes,1.0,Often,26-100,1.0,0.0,1.0,Yes,No,1.0,No,Somewhat easy,1.0,1.0,Some of them,No,0.0,0.0,Don't know,0.0
+28,male,United States,No,Yes,1.0,Often,100-500,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,1.0,Don't know,0.0
+27,male,Canada,No,No,0.0,Never,26-100,0.0,1.0,1.0,Not sure,Yes,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+29,male,United Kingdom,No,No,1.0,Sometimes,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,1.0,Yes,0.0
+39,male,United Kingdom,No,Yes,0.0,Rarely,500-1000,1.0,1.0,,Not sure,No,0.0,Don't know,Somewhat difficult,1.0,1.0,No,No,0.0,0.0,No,1.0
+28,male,United Kingdom,No,No,0.0,Often,6-25,0.0,1.0,0.0,No,No,0.0,No,Somewhat difficult,1.0,0.0,No,No,0.0,1.0,Yes,0.0
+23,male,United States,No,Yes,0.0,Sometimes,26-100,0.0,1.0,1.0,Not sure,Yes,1.0,Yes,Somewhat easy,0.0,0.0,No,No,0.0,0.5,Don't know,0.0
+38,male,United Kingdom,No,No,0.0,,1-5,1.0,1.0,0.0,No,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+19,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,1.0,No,No,1.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+30,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,Yes,,Yes,Very easy,0.0,0.0,Some of them,No,0.0,0.0,Yes,0.0
+28,male,United Kingdom,Yes,No,0.0,,1-5,1.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.5,0.5,No,No,0.0,0.0,Yes,0.0
+20,male,India,No,No,1.0,Sometimes,26-100,0.0,1.0,,No,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.5,Yes,0.0
+35,male,United Kingdom,Yes,No,0.0,Sometimes,1-5,0.0,1.0,,Not sure,No,,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+39,male,United States,No,No,1.0,Rarely,100-500,1.0,1.0,1.0,Yes,No,0.0,Yes,Very easy,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+31,male,United States,No,Yes,0.0,Never,More than 1000,0.0,0.0,1.0,Not sure,No,,Don't know,Don't know,1.0,1.0,No,No,0.0,0.0,Don't know,0.0
+32,male,United Kingdom,No,No,0.0,Rarely,500-1000,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.0,Don't know,0.0
+27,male,Sweden,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,No,No,0.0,0.0,Don't know,0.0
+25,male,United States,No,Yes,1.0,Often,6-25,1.0,1.0,1.0,Yes,No,,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+42,male,United States,No,Yes,1.0,Sometimes,6-25,1.0,1.0,,No,No,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+34,male,United States,No,Yes,1.0,Often,100-500,0.0,1.0,1.0,Yes,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Don't know,0.0
+26,male,United States,No,No,1.0,Sometimes,26-100,1.0,1.0,,No,No,,Don't know,Don't know,0.5,0.0,Some of them,No,0.5,0.5,Don't know,1.0
+35,male,United Kingdom,No,Yes,1.0,Sometimes,1-5,0.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,1.0,1.0,Some of them,Some of them,0.0,0.5,Yes,1.0
+34,male,United Kingdom,No,No,0.0,Never,500-1000,0.0,1.0,,No,No,,Don't know,Very easy,0.5,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+38,male,United States,No,Yes,1.0,Sometimes,100-500,1.0,0.0,1.0,Yes,No,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,1.0,1.0,Don't know,0.0
+34,male,United States,No,No,0.0,Sometimes,100-500,0.0,1.0,,No,No,0.0,Don't know,Don't know,1.0,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+39,male,United States,No,Yes,1.0,Sometimes,6-25,1.0,1.0,0.0,Yes,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,1.0,Yes,0.0
+44,female,United States,No,No,0.0,,100-500,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.0,Don't know,0.0
+40,male,United States,No,No,0.0,,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.5,0.0,No,Yes,0.0,0.0,Don't know,0.0
+33,male,United States,Yes,No,0.0,Never,1-5,1.0,1.0,0.0,Yes,Don't know,,Yes,Somewhat easy,0.5,0.0,No,Some of them,0.0,0.0,Yes,0.0
+24,male,United States,No,Yes,0.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,No,,Don't know,Somewhat difficult,1.0,0.5,Some of them,Some of them,0.0,0.0,No,1.0
+38,male,United States,No,Yes,0.0,Sometimes,26-100,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+31,male,United States,No,No,0.0,Sometimes,More than 1000,0.0,1.0,1.0,Not sure,Yes,1.0,Yes,Don't know,1.0,0.5,Some of them,Some of them,0.0,0.5,Yes,0.0
+23,male,Israel,No,No,0.0,,100-500,0.0,1.0,,Not sure,No,0.0,Yes,Very easy,0.5,0.0,Some of them,Yes,0.5,1.0,Don't know,0.0
+26,female,United States,No,No,0.0,,6-25,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+46,male,United States,No,No,1.0,Often,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Don't know,Don't know,1.0,0.0,Some of them,Some of them,0.0,0.0,No,1.0
+30,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,1.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+25,male,United States,No,No,0.0,Rarely,26-100,1.0,1.0,,No,No,0.0,Don't know,Somewhat easy,1.0,0.0,Some of them,Some of them,0.0,1.0,Don't know,1.0
+19,male,Canada,No,No,0.0,Never,26-100,1.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+30,male,United States,No,Yes,1.0,Sometimes,500-1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.0,No,1.0
+32,male,United States,No,No,0.0,Never,6-25,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+32,male,United Kingdom,No,No,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,No,No,0.0,0.5,Don't know,0.0
+37,male,United States,No,Yes,0.0,Sometimes,26-100,1.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+42,male,United States,No,Yes,1.0,Sometimes,6-25,1.0,1.0,,No,No,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+25,male,United States,No,No,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.5,0.0,Yes,0.0
+19,male,United States,No,No,0.0,Sometimes,1-5,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+40,male,United States,No,Yes,0.0,Never,100-500,1.0,1.0,1.0,Yes,Yes,0.0,Don't know,Don't know,1.0,1.0,No,No,0.0,0.0,Don't know,0.0
+34,male,United States,No,No,0.0,,More than 1000,0.0,0.0,1.0,Not sure,Yes,,Don't know,Don't know,0.5,0.5,Some of them,Yes,0.0,0.0,Don't know,0.0
+26,male,United States,No,Yes,0.0,,6-25,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+31,male,United States,No,Yes,1.0,Rarely,6-25,0.0,1.0,,Not sure,Don't know,,Yes,Don't know,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+40,male,United States,No,Yes,0.0,Sometimes,More than 1000,1.0,0.0,1.0,Not sure,Yes,,Don't know,Don't know,1.0,0.5,Some of them,Some of them,0.0,0.5,No,0.0
+31,male,United States,No,Yes,1.0,Often,26-100,0.0,1.0,0.0,No,No,0.0,No,Very difficult,1.0,0.0,No,No,0.0,1.0,No,1.0
+36,male,United States,No,No,0.0,Never,100-500,0.0,0.0,,No,No,,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,Don't know,1.0
+35,male,Canada,No,Yes,0.0,Sometimes,6-25,1.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,No,Some of them,0.0,0.0,Don't know,0.0
+26,male,Australia,No,Yes,1.0,Sometimes,26-100,1.0,1.0,0.0,No,No,0.0,Yes,Don't know,0.0,0.0,Yes,Yes,0.0,0.5,Yes,0.0
+44,male,United States,No,No,0.0,,More than 1000,1.0,0.0,,No,Don't know,,Yes,Don't know,1.0,0.0,Some of them,No,0.0,0.0,No,0.0
+34,male,United States,No,No,0.0,Sometimes,1-5,0.0,1.0,0.0,Not sure,No,0.0,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+35,male,United States,No,No,0.0,,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.0,0.0,No,No,0.0,0.0,Don't know,0.0
+28,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,,No,No,0.0,Don't know,Somewhat easy,1.0,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+33,male,United States,No,No,0.0,,6-25,1.0,1.0,1.0,No,Don't know,1.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+40,male,United States,No,Yes,1.0,Sometimes,More than 1000,1.0,1.0,1.0,Yes,No,1.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+26,male,United States,No,No,1.0,Sometimes,6-25,0.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+29,female,United Kingdom,No,No,1.0,Often,More than 1000,0.0,0.0,1.0,Yes,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,1.0,No,1.0
+26,male,Canada,No,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Not sure,No,0.0,Yes,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+33,male,Italy,No,Yes,1.0,Sometimes,6-25,0.0,1.0,0.0,Not sure,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+28,male,Brazil,No,Yes,0.0,Sometimes,100-500,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,1.0
+41,male,United States,Yes,No,1.0,Often,1-5,1.0,0.0,0.0,Yes,Yes,1.0,Yes,Very difficult,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,1.0
+39,male,United Kingdom,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,Yes,Yes,1.0,Yes,Somewhat difficult,0.0,0.0,Yes,Yes,0.0,0.5,Yes,1.0
+26,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,No,1.0
+23,male,United States,No,Yes,0.0,Sometimes,26-100,0.0,0.0,0.0,No,No,0.0,Don't know,Somewhat difficult,1.0,0.0,No,Some of them,0.0,0.5,No,0.0
+35,male,Switzerland,No,Yes,1.0,Often,More than 1000,0.0,1.0,,Not sure,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+36,male,United States,No,No,0.0,Never,1-5,1.0,1.0,,Not sure,Don't know,,Don't know,Very easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+42,male,United States,No,No,0.0,Rarely,More than 1000,0.0,0.0,,No,No,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,No,0.0
+39,male,United States,No,Yes,1.0,Sometimes,500-1000,0.0,1.0,1.0,Yes,No,,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+27,male,United States,No,No,0.0,Never,6-25,0.0,1.0,,No,No,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+33,male,United States,Yes,No,0.0,Never,6-25,1.0,1.0,,No,No,0.0,No,Very easy,0.5,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+31,male,Canada,No,Yes,1.0,Often,More than 1000,0.0,1.0,1.0,Not sure,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+28,male,United States,No,No,1.0,Rarely,6-25,0.0,1.0,1.0,Yes,Don't know,1.0,Yes,Very easy,0.0,0.0,Some of them,Some of them,0.0,1.0,Don't know,0.0
+29,male,United States,No,No,1.0,Often,More than 1000,1.0,0.0,1.0,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,0.0
+27,male,United States,No,No,1.0,Sometimes,100-500,0.0,1.0,,Not sure,No,0.0,Yes,Very difficult,0.5,0.0,Some of them,No,0.0,0.5,No,0.0
+44,male,United States,Yes,No,0.0,Never,1-5,1.0,1.0,,No,No,0.0,Yes,Somewhat difficult,0.0,0.0,No,No,0.0,0.0,Don't know,0.0
+25,male,United States,No,No,1.0,Often,6-25,1.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+24,male,Germany,No,Yes,1.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+25,male,South Africa,No,Yes,1.0,Often,6-25,0.0,0.0,,No,No,0.0,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,No,1.0
+34,male,United States,No,No,0.0,Never,6-25,1.0,1.0,1.0,Not sure,Don't know,,Don't know,Somewhat easy,0.5,0.5,No,Some of them,0.0,0.5,Don't know,0.0
+26,male,United States,No,No,0.0,Never,More than 1000,0.0,0.0,1.0,Yes,No,,Don't know,Somewhat difficult,0.5,0.0,No,Yes,0.0,0.0,Don't know,0.0
+48,male,United States,No,No,0.0,Never,26-100,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.5,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+34,male,Greece,No,No,0.0,,26-100,1.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,1.0,0.5,Some of them,No,0.0,0.5,No,0.0
+39,male,United States,No,No,1.0,Sometimes,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.5,No,0.0
+43,male,United States,No,No,0.0,Sometimes,More than 1000,1.0,1.0,1.0,Not sure,No,1.0,Don't know,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+41,male,United States,No,No,0.0,Rarely,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.5,0.5,Some of them,No,0.0,0.0,Yes,1.0
+25,male,United States,No,No,0.0,Never,More than 1000,0.0,0.0,,No,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+31,male,United States,No,No,1.0,Sometimes,100-500,0.0,1.0,1.0,Yes,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,No,0.0,0.5,No,0.0
+40,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Don't know,1.0,1.0,No,No,0.0,0.5,No,1.0
+43,male,United States,Yes,Yes,1.0,Sometimes,1-5,1.0,1.0,1.0,Not sure,No,,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.5,Don't know,0.0
+27,male,United States,No,Yes,1.0,Often,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Very difficult,0.5,0.0,Yes,Some of them,0.0,0.5,No,1.0
+37,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,1.0,Yes,No,,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+32,male,Netherlands,Yes,No,1.0,Sometimes,1-5,0.0,1.0,0.0,No,No,0.0,Yes,Very difficult,0.5,0.0,Some of them,Yes,0.0,0.5,No,0.0
+25,male,United States,No,Yes,1.0,Often,1-5,0.0,1.0,0.0,Yes,No,0.0,Yes,Very easy,0.5,0.0,Yes,Yes,0.0,0.5,No,0.0
+29,male,Netherlands,No,Yes,1.0,Often,1-5,0.0,1.0,,Not sure,Don't know,1.0,Don't know,Very difficult,0.0,0.5,Yes,Yes,0.5,0.0,Yes,0.0
+30,male,United States,No,Yes,1.0,Often,More than 1000,0.0,0.0,1.0,No,No,0.0,Don't know,Somewhat difficult,1.0,0.0,No,No,0.0,0.5,No,0.0
+34,male,Canada,No,Yes,1.0,Often,26-100,0.0,0.0,,No,Yes,,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+32,male,United Kingdom,No,Yes,1.0,Sometimes,1-5,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.5,No,0.0
+37,male,Germany,No,No,0.0,,6-25,0.0,1.0,,No,No,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+41,male,Germany,No,No,1.0,Sometimes,More than 1000,0.0,1.0,,No,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Yes,Yes,0.0,0.0,Yes,0.0
+38,male,United States,No,Yes,0.0,Never,More than 1000,0.0,0.0,1.0,Not sure,Yes,1.0,Don't know,Don't know,1.0,0.5,Some of them,No,0.0,0.0,No,0.0
+32,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,Yes,,Yes,Don't know,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+28,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Yes,Don't know,,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+43,male,United States,No,Yes,0.0,Never,100-500,0.0,0.0,1.0,Yes,No,,Don't know,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+32,male,United States,No,Yes,1.0,Often,100-500,0.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,1.0,0.0,Yes,Yes,0.0,1.0,No,0.0
+25,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,,Yes,Don't know,1.0,0.0,No,No,0.0,0.0,Yes,0.0
+37,male,United States,No,No,1.0,Sometimes,100-500,0.0,1.0,1.0,No,No,1.0,Yes,Very easy,0.0,0.0,No,Yes,0.0,0.0,Yes,0.0
+36,male,United States,Yes,No,1.0,Sometimes,1-5,0.0,0.0,0.0,Yes,No,0.0,No,Very difficult,0.0,0.0,No,No,0.0,0.0,No,1.0
+24,male,United States,No,Yes,1.0,Rarely,6-25,1.0,1.0,,No,No,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.5,1.0,Yes,0.0
+40,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Not sure,Yes,,Don't know,Somewhat difficult,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,1.0
+29,male,United States,No,No,0.0,,More than 1000,0.0,0.0,,Not sure,Yes,,Yes,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+43,male,United States,No,No,0.0,Never,500-1000,0.0,1.0,,No,No,,Don't know,Don't know,0.0,0.0,Yes,Some of them,0.0,0.0,Yes,0.0
+29,male,United States,No,No,0.0,,6-25,1.0,1.0,1.0,Not sure,No,1.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.5,1.0,Don't know,0.0
+26,male,United States,No,Yes,0.0,Sometimes,100-500,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+33,male,Canada,Yes,Yes,1.0,Often,1-5,1.0,1.0,0.0,Yes,No,0.0,No,Very difficult,1.0,1.0,No,No,0.0,0.5,No,1.0
+35,male,United States,No,Yes,0.0,Sometimes,6-25,1.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Yes,Some of them,0.0,0.0,Yes,0.0
+45,male,United States,No,No,0.0,Never,6-25,1.0,1.0,1.0,No,No,0.0,Don't know,Don't know,1.0,0.5,Some of them,No,0.0,0.5,Don't know,0.0
+25,male,United States,No,No,1.0,Rarely,6-25,1.0,1.0,0.0,Yes,No,,Don't know,Somewhat easy,0.5,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+50,male,France,Yes,No,1.0,Sometimes,26-100,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Yes,0.0,0.0,Don't know,0.0
+26,male,Australia,No,Yes,1.0,Rarely,26-100,0.0,1.0,0.0,No,Don't know,,Don't know,Very easy,0.0,0.0,Yes,Yes,0.5,1.0,Yes,0.0
+33,male,United States,No,No,1.0,Often,More than 1000,0.0,1.0,1.0,Yes,Don't know,,Don't know,Don't know,1.0,0.0,No,No,0.0,0.5,Don't know,0.0
+30,male,India,No,No,0.0,Often,6-25,0.0,1.0,0.0,No,No,0.0,No,Very easy,0.5,0.5,Some of them,Some of them,0.5,0.5,Don't know,0.0
+33,male,Croatia,No,Yes,1.0,Sometimes,6-25,1.0,1.0,1.0,Yes,No,,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+29,male,France,No,No,1.0,Often,6-25,0.0,1.0,1.0,No,No,0.0,Yes,Somewhat easy,0.5,0.5,Yes,Some of them,0.0,1.0,No,0.0
+37,male,Germany,No,No,0.0,,6-25,1.0,1.0,0.0,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.5,1.0,Don't know,0.0
+25,male,United States,No,Yes,1.0,Sometimes,1-5,1.0,1.0,,No,Don't know,,Don't know,Very easy,0.0,0.0,Yes,Yes,0.5,1.0,Don't know,0.0
+40,male,United States,No,No,0.0,,More than 1000,0.0,0.0,1.0,Not sure,Don't know,,Don't know,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+24,male,Canada,No,No,0.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,0.5,0.0,No,No,0.0,0.5,Don't know,1.0
+40,male,United Kingdom,No,No,1.0,Never,100-500,0.0,1.0,,Not sure,No,,Don't know,Very easy,0.5,0.0,Yes,Some of them,0.0,0.5,Don't know,0.0
+46,male,United States,No,Yes,1.0,Sometimes,6-25,0.0,1.0,,Yes,No,,Don't know,Don't know,1.0,0.5,No,Some of them,0.0,0.5,Don't know,0.0
+38,male,United States,No,Yes,1.0,Rarely,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,1.0,0.0,No,Yes,0.0,1.0,Don't know,0.0
+34,male,United States,No,No,0.0,Never,1-5,1.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,1.0,1.0,No,No,0.0,0.0,Don't know,0.0
+32,male,United Kingdom,Yes,No,1.0,Rarely,1-5,0.0,1.0,0.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,1.0,No,1.0
+44,male,United Kingdom,No,No,1.0,Sometimes,More than 1000,0.0,0.0,0.0,No,No,1.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,No,0.0
+33,male,United Kingdom,No,No,1.0,Never,100-500,0.0,1.0,,Not sure,No,,Don't know,Very easy,0.5,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+45,male,United States,No,No,1.0,Rarely,26-100,0.0,0.0,,No,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+35,male,United States,No,No,0.0,,6-25,0.0,1.0,,Not sure,Don't know,,Yes,Don't know,0.0,0.0,No,No,0.0,0.0,Yes,0.0
+26,male,Germany,Yes,Yes,1.0,Often,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Yes,Yes,0.5,1.0,No,1.0
+20,male,United States,No,No,1.0,Sometimes,26-100,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+37,male,Netherlands,No,Yes,0.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Yes,Somewhat easy,0.5,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+28,male,United States,No,No,0.0,,More than 1000,0.0,0.0,1.0,No,No,0.0,Yes,Somewhat easy,0.5,0.0,No,No,0.0,1.0,No,0.0
+42,female,United States,No,Yes,1.0,Sometimes,26-100,0.0,0.0,1.0,Yes,No,0.0,Don't know,Don't know,1.0,0.0,Some of them,Some of them,0.0,1.0,No,0.0
+32,male,United Kingdom,No,No,0.0,,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,1.0
+36,female,United States,No,Yes,1.0,Rarely,More than 1000,1.0,1.0,1.0,Yes,No,0.0,Yes,Somewhat easy,0.5,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+27,male,New Zealand,No,No,0.0,Rarely,26-100,0.0,1.0,0.0,Yes,No,1.0,No,Somewhat difficult,1.0,0.0,No,No,0.0,0.5,No,1.0
+27,male,New Zealand,No,No,0.0,Rarely,26-100,0.0,1.0,0.0,Yes,No,1.0,No,Somewhat difficult,1.0,0.0,No,No,0.0,0.5,No,1.0
+27,male,United Kingdom,No,No,1.0,Sometimes,More than 1000,0.0,0.0,0.0,No,No,0.0,Yes,Somewhat easy,0.5,0.0,Yes,Yes,0.5,0.5,No,0.0
+25,male,United Kingdom,No,Yes,1.0,Sometimes,26-100,1.0,1.0,0.0,No,No,0.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.0,0.5,Yes,0.0
+41,male,United Kingdom,No,Yes,0.0,,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,0.5,0.5,Some of them,Some of them,0.5,0.5,Don't know,0.0
+23,male,Germany,No,Yes,1.0,Sometimes,6-25,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat easy,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+21,male,United Kingdom,No,No,1.0,Sometimes,More than 1000,0.0,0.0,,No,No,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+26,male,Moldova,No,No,1.0,Often,26-100,0.0,1.0,0.0,Yes,No,0.0,Yes,Very difficult,0.0,0.0,Yes,Yes,1.0,1.0,Don't know,0.0
+29,male,Sweden,No,No,0.0,Rarely,More than 1000,0.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.5,No,No,0.0,1.0,Don't know,1.0
+28,male,Belgium,No,No,0.0,Sometimes,More than 1000,0.0,0.0,0.0,No,No,0.0,Don't know,Somewhat easy,1.0,0.5,No,No,0.0,0.0,Don't know,1.0
+27,male,United Kingdom,No,Yes,0.0,,More than 1000,0.0,0.0,0.0,Yes,No,0.0,Yes,Don't know,0.5,0.0,No,No,0.0,1.0,Yes,0.0
+23,male,Israel,No,No,0.0,Never,More than 1000,0.0,0.0,0.0,Yes,Yes,1.0,Yes,Somewhat difficult,0.0,0.0,Yes,Yes,0.0,1.0,Yes,0.0
+26,female,United States,No,Yes,0.0,Sometimes,26-100,1.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,No,No,0.0,0.0,Don't know,0.0
+38,male,United Kingdom,No,Yes,1.0,Sometimes,1-5,0.0,1.0,0.0,Not sure,Don't know,,Don't know,Very easy,0.0,0.0,Some of them,Yes,0.5,1.0,Don't know,0.0
+39,male,United Kingdom,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,0.0,No,No,0.0,Yes,Very easy,0.5,0.5,Some of them,Yes,0.5,0.5,Yes,0.0
+35,male,United States,No,Yes,1.0,Often,More than 1000,0.0,0.0,1.0,Yes,No,1.0,Don't know,Somewhat easy,1.0,0.0,No,Some of them,0.0,1.0,Don't know,0.0
+32,male,United States,No,No,0.0,Rarely,6-25,0.0,1.0,1.0,Not sure,No,,Don't know,Don't know,0.5,0.0,No,Some of them,0.0,0.5,Don't know,0.0
+32,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,Yes,1.0,Yes,Somewhat difficult,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,1.0
+26,male,United Kingdom,No,No,0.0,Never,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,1.0,0.5,Some of them,No,0.0,0.5,Don't know,0.0
+38,male,Canada,No,Yes,1.0,Rarely,100-500,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.5,No,0.0
+34,male,United Kingdom,No,Yes,0.0,Rarely,26-100,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+39,male,United States,No,Yes,1.0,Often,26-100,0.0,0.0,,Not sure,No,0.0,Don't know,Somewhat easy,1.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+32,male,Canada,Yes,No,0.0,Never,6-25,1.0,1.0,,Not sure,No,0.0,Don't know,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+37,male,Netherlands,Yes,No,0.0,Never,1-5,1.0,1.0,,Not sure,Don't know,,Don't know,Very easy,1.0,1.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+31,male,United Kingdom,No,Yes,1.0,Never,6-25,0.0,1.0,,Not sure,No,,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+30,male,United States,No,Yes,1.0,Rarely,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.0,0.0,No,No,0.0,0.0,Don't know,0.0
+51,male,Singapore,No,No,0.0,Never,More than 1000,1.0,1.0,,No,No,,Don't know,Don't know,1.0,0.0,No,No,0.0,0.0,No,0.0
+29,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,0.0,Don't know,Don't know,1.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+31,male,United Kingdom,No,No,0.0,Never,100-500,0.0,1.0,1.0,No,No,1.0,Don't know,Don't know,0.5,1.0,Some of them,No,0.0,0.0,Yes,0.0
+31,male,India,No,No,0.0,,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,1.0,1.0,No,No,0.0,0.0,Don't know,0.0
+26,male,United States,No,Yes,1.0,Sometimes,6-25,1.0,1.0,,No,No,,Don't know,Somewhat easy,0.5,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+46,male,United States,No,No,1.0,Often,100-500,1.0,0.0,1.0,Yes,No,0.0,Yes,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.5,No,0.0
+32,male,United States,No,Yes,0.0,Sometimes,More than 1000,0.0,1.0,1.0,No,Yes,,Don't know,Don't know,0.5,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+29,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,0.0,1.0,Yes,Yes,1.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+34,male,Poland,No,No,0.0,Never,More than 1000,1.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,1.0,Don't know,0.0
+26,male,Colombia,No,No,0.0,Often,6-25,0.0,1.0,0.0,No,No,0.0,No,Very difficult,1.0,0.0,No,No,0.0,0.5,Yes,0.0
+32,male,United States,No,No,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,No,0.0
+29,male,United States,No,No,0.0,,More than 1000,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.5,1.0,No,0.0
+30,male,United States,No,No,0.0,,More than 1000,0.0,0.0,1.0,No,Yes,1.0,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,Don't know,0.0
+40,female,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,1.0,Yes,Somewhat easy,0.0,0.0,Yes,Yes,0.0,0.5,Yes,1.0
+23,male,United Kingdom,No,No,1.0,Sometimes,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Very difficult,0.5,0.0,Yes,Yes,1.0,1.0,No,1.0
+20,male,Georgia,No,No,0.0,Rarely,26-100,0.0,0.0,0.0,No,No,0.0,Don't know,Very difficult,1.0,1.0,Some of them,No,0.0,0.5,No,0.0
+38,male,United States,No,Yes,0.0,,6-25,0.0,1.0,,No,No,0.0,Don't know,Somewhat difficult,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,1.0
+26,male,United States,No,Yes,1.0,Rarely,100-500,0.0,1.0,1.0,No,No,0.0,Don't know,Don't know,0.5,0.5,No,No,0.0,0.5,No,0.0
+29,male,United States,No,No,0.0,Never,26-100,0.0,1.0,0.0,No,No,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,1.0,No,1.0
+40,male,China,Yes,No,0.0,Sometimes,1-5,1.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.5,0.5,Don't know,0.0
+25,male,Bulgaria,No,No,1.0,Sometimes,26-100,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Yes,Some of them,0.5,0.0,No,0.0
+32,male,United States,No,No,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,0.5,0.5,Some of them,No,0.0,0.0,No,0.0
+38,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.5,0.0,Some of them,No,0.0,0.5,No,1.0
+35,male,United States,No,Yes,1.0,Sometimes,1-5,1.0,1.0,0.0,No,No,0.0,Yes,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.0,Yes,0.0
+28,female,United States,No,No,1.0,Often,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Very difficult,1.0,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+27,male,United States,No,No,0.0,Never,100-500,0.0,0.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+56,male,United States,Yes,No,0.0,Rarely,1-5,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.5,0.5,No,No,0.0,0.0,Don't know,0.0
+38,male,United States,No,Yes,1.0,Sometimes,26-100,1.0,1.0,1.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+31,male,Belgium,No,No,0.0,,26-100,0.0,1.0,,Not sure,No,0.0,Yes,Very easy,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+40,male,United States,No,Yes,1.0,Sometimes,6-25,0.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Yes,0.0
+44,male,United States,No,Yes,1.0,Sometimes,100-500,0.0,1.0,1.0,Yes,No,1.0,Yes,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+34,male,Canada,No,Yes,0.0,Sometimes,More than 1000,0.0,1.0,1.0,Not sure,Yes,1.0,Yes,Don't know,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+37,male,United Kingdom,No,No,0.0,Never,26-100,1.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,1.0,Don't know,0.0
+38,male,Italy,No,No,0.0,Never,26-100,0.0,1.0,,Not sure,Don't know,,Yes,Don't know,0.0,0.0,Some of them,Yes,1.0,0.5,No,0.0
+27,male,Germany,No,No,0.0,,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,1.0,1.0,Don't know,0.0
+34,male,Ireland,No,No,1.0,Sometimes,500-1000,0.0,0.0,1.0,Yes,Yes,0.0,Yes,Don't know,1.0,1.0,Some of them,Some of them,0.0,0.0,Yes,0.0
+35,male,Ireland,No,No,0.0,Rarely,1-5,0.0,1.0,,No,No,0.0,No,Don't know,0.5,0.0,Some of them,No,0.0,0.5,No,0.0
+34,male,Ireland,No,No,1.0,Often,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat difficult,1.0,0.5,Some of them,Yes,0.0,0.5,No,0.0
+32,male,United States,No,No,1.0,Often,26-100,1.0,1.0,1.0,Not sure,No,,Don't know,Very difficult,1.0,0.5,Some of them,No,0.0,0.0,Don't know,0.0
+25,male,Ireland,No,No,0.0,,100-500,0.0,1.0,,Not sure,No,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+28,male,Australia,No,No,1.0,Often,100-500,1.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.5,No,0.0
+28,male,United States,No,No,1.0,Rarely,6-25,0.0,1.0,1.0,No,No,0.0,Don't know,Somewhat easy,1.0,1.0,Some of them,No,0.0,0.0,No,1.0
+31,male,Brazil,Yes,No,1.0,,1-5,0.0,1.0,0.0,Yes,No,0.0,No,Don't know,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+24,male,United Kingdom,No,No,0.0,,100-500,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Yes,0.0,0.5,Don't know,0.0
+34,male,Ireland,No,Yes,1.0,Never,1-5,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+32,male,Ireland,No,No,1.0,Sometimes,6-25,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,0.5,Don't know,0.0
+34,male,United Kingdom,No,Yes,0.0,Often,26-100,1.0,0.0,,Not sure,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Yes,0.5,1.0,Yes,0.0
+23,male,United States,No,No,1.0,Sometimes,1-5,0.0,1.0,0.0,Yes,No,0.0,No,Very easy,0.5,0.5,Some of them,Yes,0.0,0.0,No,0.0
+33,male,Czech Republic,No,Yes,0.0,Often,100-500,0.0,1.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.5,0.5,Don't know,1.0
+29,male,Singapore,No,Yes,1.0,Sometimes,26-100,0.0,1.0,,Not sure,No,0.0,Don't know,Somewhat difficult,0.5,0.0,No,No,0.0,0.5,No,0.0
+24,male,Ireland,No,Yes,0.0,,1-5,0.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,No,No,0.0,0.0,Don't know,0.0
+45,male,Ireland,No,No,0.0,Never,More than 1000,1.0,1.0,,Not sure,No,0.0,Don't know,Don't know,1.0,0.0,Yes,Some of them,0.0,0.0,No,1.0
+34,male,United Kingdom,No,No,1.0,Sometimes,More than 1000,0.0,0.0,0.0,Yes,No,1.0,Yes,Somewhat difficult,0.5,0.5,Some of them,Yes,0.0,0.5,No,1.0
+31,male,Philippines,No,No,0.0,Sometimes,More than 1000,0.0,1.0,,No,No,0.0,Don't know,Very difficult,1.0,1.0,Some of them,No,0.0,0.5,No,1.0
+33,male,United States,No,No,1.0,Often,26-100,1.0,1.0,1.0,Yes,No,0.0,Yes,Don't know,0.5,0.0,Some of them,No,0.0,0.5,Don't know,0.0
+28,male,Netherlands,No,No,0.0,,6-25,0.0,1.0,0.0,Not sure,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+27,male,United Kingdom,No,No,0.0,Rarely,More than 1000,1.0,0.0,,Not sure,No,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+42,male,Ireland,No,No,0.0,Never,26-100,0.0,1.0,0.0,Yes,No,0.0,No,Somewhat difficult,1.0,1.0,Some of them,Some of them,0.0,0.0,No,0.0
+28,male,Netherlands,No,No,0.0,,6-25,0.0,1.0,0.0,Not sure,No,0.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+38,male,United States,No,No,1.0,Sometimes,More than 1000,1.0,1.0,1.0,No,Yes,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.0,0.0,Don't know,0.0
+46,male,United States,No,Yes,1.0,Often,26-100,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Some of them,No,0.0,0.0,No,0.0
+46,male,United States,No,Yes,1.0,Sometimes,100-500,1.0,1.0,,Not sure,Don't know,,Don't know,Don't know,0.0,0.0,Some of them,Yes,1.0,1.0,Don't know,0.0
+41,male,Netherlands,Yes,No,1.0,Rarely,1-5,1.0,1.0,,Yes,Don't know,1.0,No,Somewhat easy,0.0,0.0,Yes,Yes,1.0,1.0,Yes,0.0
+23,male,United Kingdom,No,No,0.0,Never,26-100,0.0,1.0,,No,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,Some of them,0.0,0.5,Yes,1.0
+24,male,Ireland,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,1.0,Don't know,Somewhat easy,0.5,0.0,Some of them,No,0.0,0.5,Yes,1.0
+23,male,Ireland,No,No,1.0,Rarely,26-100,0.0,1.0,0.0,Yes,Yes,0.0,Don't know,Don't know,0.0,0.0,Yes,Some of them,0.0,0.5,Don't know,0.0
+39,male,Netherlands,No,No,0.0,,More than 1000,0.0,0.0,1.0,Not sure,Yes,,Don't know,Somewhat easy,0.5,0.5,No,Some of them,0.0,0.0,Yes,0.0
+32,male,Ireland,No,Yes,0.0,Never,More than 1000,0.0,1.0,1.0,Yes,Don't know,1.0,Yes,Don't know,0.5,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+25,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,,Yes,No,0.0,Don't know,Somewhat easy,1.0,0.0,Some of them,Some of them,0.0,0.5,Don't know,0.0
+39,male,Greece,No,No,0.0,,6-25,1.0,1.0,0.0,No,No,0.0,Yes,Don't know,1.0,0.0,No,No,0.0,0.0,Don't know,0.0
+23,male,United Kingdom,No,Yes,1.0,Sometimes,6-25,0.0,1.0,0.0,Yes,No,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+24,male,United Kingdom,Yes,No,1.0,Sometimes,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Don't know,0.5,0.5,Some of them,Some of them,0.0,0.5,Don't know,1.0
+25,male,United Kingdom,No,Yes,1.0,Sometimes,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Very easy,0.0,0.0,Yes,Yes,1.0,1.0,Yes,0.0
+23,male,United Kingdom,No,No,1.0,Rarely,6-25,0.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,0.0,0.0,Yes,Yes,0.0,0.5,Don't know,0.0
+24,male,United Kingdom,No,No,1.0,Sometimes,6-25,0.0,0.0,,No,No,,Don't know,Don't know,1.0,0.5,No,No,0.0,0.5,Don't know,0.0
+23,male,Canada,No,No,1.0,Often,26-100,0.0,1.0,1.0,Yes,Yes,,Don't know,Don't know,0.5,0.0,Yes,Some of them,0.0,0.0,Don't know,0.0
+60,male,United States,No,No,1.0,Often,More than 1000,1.0,1.0,,No,Yes,,Don't know,Somewhat easy,0.5,0.5,Some of them,No,0.0,0.5,Don't know,0.0
+28,male,Ireland,No,No,0.0,Sometimes,26-100,0.0,1.0,0.0,Yes,No,0.0,Yes,Don't know,1.0,0.5,No,No,0.0,0.0,No,1.0
+28,male,United States,No,Yes,1.0,Often,More than 1000,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Somewhat easy,1.0,0.5,Some of them,Yes,0.0,0.0,No,1.0
+30,male,Netherlands,No,No,0.0,Sometimes,500-1000,0.0,1.0,,No,No,0.0,Don't know,Don't know,0.5,0.0,Yes,Yes,0.5,1.0,Don't know,0.0
+31,male,Germany,No,Yes,1.0,Sometimes,100-500,0.0,1.0,,No,No,0.0,Yes,Somewhat easy,0.0,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+31,male,Poland,Yes,No,1.0,Often,6-25,1.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
+28,male,Ireland,No,No,1.0,Rarely,26-100,0.0,1.0,,No,No,,Don't know,Don't know,0.5,0.0,No,No,0.0,0.5,Don't know,0.0
+43,female,United States,No,Yes,1.0,Rarely,More than 1000,1.0,1.0,1.0,Yes,No,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.0,0.0,Don't know,0.0
+32,male,United Kingdom,No,No,0.0,,More than 1000,0.0,0.0,0.0,No,No,,Don't know,Don't know,0.5,0.0,Some of them,Yes,0.0,1.0,No,0.0
+22,male,Australia,No,Yes,1.0,Often,100-500,0.0,0.0,1.0,Yes,Yes,1.0,Yes,Don't know,0.5,0.5,No,Yes,0.0,0.5,Don't know,1.0
+32,male,United States,No,No,0.0,Never,100-500,0.0,1.0,1.0,Not sure,Don't know,1.0,Don't know,Somewhat easy,0.0,0.0,No,Some of them,0.5,1.0,Don't know,0.0
+36,male,Finland,No,No,1.0,Often,6-25,0.0,1.0,0.0,No,No,0.0,No,Very difficult,1.0,0.0,Some of them,No,0.0,0.5,Don't know,1.0
+41,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,No,No,,Don't know,Don't know,1.0,0.5,No,No,0.0,0.0,Don't know,0.0
+30,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,1.0,1.0,Yes,Don't know,0.0,Yes,Very easy,0.0,0.0,Yes,Yes,0.5,0.5,Yes,0.0
+30,male,United States,Yes,Yes,1.0,Often,26-100,0.0,1.0,1.0,Not sure,Yes,1.0,Don't know,Don't know,0.0,0.0,Some of them,Yes,0.5,0.5,Yes,0.0
+36,male,South Africa,No,Yes,1.0,Often,100-500,0.0,0.0,0.0,Yes,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Yes,0.0,1.0,Yes,0.0
+29,male,United States,No,Yes,1.0,Sometimes,100-500,1.0,1.0,1.0,Yes,Yes,0.0,Yes,Don't know,1.0,0.0,Some of them,No,0.0,0.5,No,0.0
+36,male,United States,No,Yes,0.0,Rarely,More than 1000,0.0,0.0,,No,Yes,1.0,Don't know,Somewhat easy,0.5,0.5,Some of them,Some of them,0.0,0.0,Don't know,0.0
+26,male,United Kingdom,No,No,1.0,,26-100,0.0,1.0,0.0,No,No,0.0,Don't know,Somewhat easy,0.0,0.0,Some of them,Some of them,0.0,0.0,Don't know,0.0
+32,male,United States,No,Yes,1.0,Often,26-100,1.0,1.0,1.0,Yes,No,0.0,Yes,Somewhat difficult,0.0,0.0,Some of them,Yes,0.0,0.0,Yes,0.0
+34,male,United States,No,Yes,1.0,Sometimes,More than 1000,0.0,1.0,1.0,Yes,No,0.0,Don't know,Somewhat difficult,1.0,1.0,No,No,0.0,0.0,No,0.0
+46,female,United States,No,No,0.0,,100-500,1.0,1.0,0.0,Yes,No,0.0,Don't know,Don't know,1.0,0.0,No,No,0.0,0.0,No,0.0
+25,male,United States,No,Yes,1.0,Sometimes,26-100,0.0,0.0,1.0,Yes,No,0.0,Yes,Don't know,0.5,0.0,Some of them,No,0.0,0.0,Don't know,0.0
